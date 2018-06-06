@@ -29,7 +29,7 @@ base_url = \
 
 url2html(base_url + 'view.php?person=jp-daiki',
          'ibm-container-body', 'ibmr_profile.html')
-url2html(base_url + 'view_person_pubs.php?person=jp-daiki&t=1',
-         'ibm-container-body', 'ibmr_publications.html')
-url2html(base_url + 'view_person_pubs.php?person=jp-daiki&t=2',
-         'ibm-container-body', 'ibmr_patents.html')
+# url2html(base_url + 'view_person_pubs.php?person=jp-daiki&t=1',
+#          'ibm-container-body', 'ibmr_publications.html')
+# url2html(base_url + 'view_person_pubs.php?person=jp-daiki&t=2',
+#          'ibm-container-body', 'ibmr_patents.html')
