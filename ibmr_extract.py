@@ -4,21 +4,20 @@ from __future__ import print_function
 
 # pip install -r requirements.txt --user
 from bs4 import BeautifulSoup
-import urllib
+import urllib.request
 import codecs
 
 
 def url2html(url, div_class_name, html_filename):
-    f = urllib.urlopen(url)
+    f = urllib.request.urlopen(url)
     html_text = f.read()
 
-    soup = BeautifulSoup(html_text)
+    soup = BeautifulSoup(html_text, "html.parser")
     soup_fa = soup.findAll('div', class_=div_class_name)
     if len(soup_fa) != 1:
         raise NotImplemented
     htmls = soup_fa[0].prettify()
-    htmls = '<meta charset="UTF-8">\n' + \
-        htmls
+    htmls = '<meta charset="UTF-8">\n' + htmls
 
     with codecs.open(html_filename, 'w', 'utf-8') as f:
         f.write(htmls)
