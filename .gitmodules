@@ -1,0 +1,3 @@
+[submodule "confidential_biography"]
+	path = confidential_biography
+	url = git@github.com:daiki-kimura/confidential_biography.git
