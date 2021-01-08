@@ -9,8 +9,16 @@ import codecs
 
 
 def url2html(url, div_class_name, html_filename):
-    f = urllib.request.urlopen(url)
-    html_text = f.read()
+    print('getting: ' + url)
+    headers = {
+        'User-Agent':
+        'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) ' +
+        'AppleWebKit/537.36 (KHTML, like Gecko) ' +
+        'Chrome/87.0.4280.88 Safari/537.36'
+    }
+    request = urllib.request.Request(url, headers=headers)
+    response = urllib.request.urlopen(request)
+    html_text = response.read()
 
     soup = BeautifulSoup(html_text, "html.parser")
     soup_fa = soup.findAll('div', class_=div_class_name)
@@ -24,7 +32,7 @@ def url2html(url, div_class_name, html_filename):
 
 
 base_url = \
-    'http://researcher.watson.ibm.com/researcher/'
+    'https://researcher.watson.ibm.com/researcher/'
 
 url2html(base_url + 'view.php?person=jp-daiki',
          'ibm-container-body', 'ibmr_profile.html')
