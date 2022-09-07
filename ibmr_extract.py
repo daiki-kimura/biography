@@ -1,12 +1,12 @@
 # -*- encoding: utf-8 -*-
 
 from __future__ import print_function
-
-# pip install -r requirements.txt --user
 from bs4 import BeautifulSoup
 import urllib.request
 import codecs
+import ssl
 
+ssl._create_default_https_context = ssl._create_unverified_context
 
 def url2html(url, div_class_name, html_filename):
     print('getting: ' + url)
