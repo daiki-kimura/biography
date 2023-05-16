@@ -6,4 +6,5 @@ Backup of [my bio](http://ibm.biz/daiki-kimura)
 
 ```bash
 ./update.sh
+# update bio.md manually
 ```

@@ -8,6 +8,7 @@ import ssl
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
+
 def url2html(url, div_class_name, html_filename):
     print('getting: ' + url)
     headers = {
@@ -23,7 +24,7 @@ def url2html(url, div_class_name, html_filename):
     soup = BeautifulSoup(html_text, "html.parser")
     soup_fa = soup.findAll('div', class_=div_class_name)
     if len(soup_fa) != 1:
-        raise NotImplemented
+        raise NotImplementedError()
     htmls = soup_fa[0].prettify()
     htmls = '<meta charset="UTF-8">\n' + htmls
 
@@ -31,12 +32,5 @@ def url2html(url, div_class_name, html_filename):
         f.write(htmls)
 
 
-base_url = \
-    'https://researcher.watson.ibm.com/researcher/'
-
-url2html(base_url + 'view.php?person=jp-daiki',
-         'ibm-container-body', 'ibmr_profile.html')
-# url2html(base_url + 'view_person_pubs.php?person=jp-daiki&t=1',
-#          'ibm-container-body', 'ibmr_publications.html')
-# url2html(base_url + 'view_person_pubs.php?person=jp-daiki&t=2',
-#          'ibm-container-body', 'ibmr_patents.html')
+url2html('https://research.ibm.com/people/daiki-kimura',
+         '_8TKwU', 'ibmr_profile.html')
