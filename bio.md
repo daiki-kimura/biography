@@ -14,7 +14,7 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research. He is now 
 
 **Projects in IBM**
 
-- 2022 - Now: Technical Lead of **Data pipeline for Geospatial Foundation Model** ([Press1](https://newsroom.ibm.com/2023-02-01-IBM-and-NASA-Collaborate-to-Research-Impact-of-Climate-Change-with-AI), [Press2](https://research.ibm.com/blog/geospatial-models-nasa-ai), received **Grand Prize** at an external competition)
+- 2022 - Now: Technical Lead of Data pipeline for **Geospatial Foundation Model** ([Press1](https://newsroom.ibm.com/2023-02-01-IBM-and-NASA-Collaborate-to-Research-Impact-of-Climate-Change-with-AI), [Press2](https://research.ibm.com/blog/geospatial-models-nasa-ai), received **Grand Prize** at an external competition)
 - 2019 - 2022: Technical Lead of **Neuro-Symbolic Reinforcement Learning** ([LOA](https://github.com/IBM/LOA), [NeSA-Demo](https://github.com/IBM/nesa-demo), [Paper1](https://arxiv.org/abs/2110.10963), [Paper2](https://arxiv.org/abs/2110.10973))
 - 2017 - 2020: Technical Lead of **Visual Analysis by GAN during Robot-Human Interaction for Detecting Dementia** ([Paper](https://openaccess.thecvf.com/content_WACV_2020/html/Kimura_Adversarial_Discriminative_Attention_for_Robust_Anomaly_Detection_WACV_2020_paper.html), received **four awards**)
 - 2018 - 2019: Lecturer of **AI & Deep Learning with IBM Watson** ([CTA](https://www.ibm.com/ibm/jp/ja/cta.html), received **GM Award**)
@@ -179,6 +179,8 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research. He is now 
 
 **Patents**
 
+1. **Daiki Kimura**, Stefan Zecevic, Subhajit Chaudhury, Michiaki Tatsubori, "_(confidential)_", US18/187018, 2023 [status: Filed].
+1. Don Joven Ravoy Agravante, **Daiki Kimura**, Michiaki Tatsubori, "_(confidential)_", US18/073651, 2023 [status: Filed].
 1. Tsunehiko Tanaka, **Daiki Kimura**, Michiaki Tatsubori, "_(confidential)_", US17/812757, 2022 [status: Filed]
 1. **Daiki Kimura**, Masaki Ono, Subhajit Chaudhury, Michiaki Tatsubori, "_(confidential)_", US17/494055, 2021 [status: Filed].
 1. "[Mapped Attribute Representations for Improving Generalization in Text-based Games via Summarization](https://priorart.ip.com/IPCOM/000266394D)", IPCOM000266394D, 2021 [status: Defensive Publication].
@@ -191,16 +193,16 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research. He is now 
 1. **Daiki Kimura**, Subhajit Chaudhury, Michiaki Tatsubori, Asim Munawar, Ryuki Tachibana, "_(confidential)_", US 17/099363, 2020 [status: Filed].
 1. Ryosuke Kohita, Akifumi Wachi, **Daiki Kimura**, "_(confidential)_", US 17/078221, 2020 [status: Filed].
 1. "[Deep frame interpolation of quantum wave video by introducing loss in Fourier space](https://priorart.ip.com/IPCOM/000262542)", IPCOM000262542D, 2020 [status: Defensive Publication].
-1. Subhajit Chaudhury, **Daiki Kimura**, Michiaki Tatsubori, and Asim Munawar, "_(confidential)_", US 16/901040, 2020 [status: Filed].
-1. _(confidential)_, **Daiki Kimura**, _(confidential)_, Subhajit Chaudhury, and Asim Munawar, "_(confidential)_", US 16/838349, 2020 [status: Filed].
-1. Subhajit Chaudhury, **Daiki Kimura**, Asim Munawar, and Ryuki Tachibana, "_(confidential)_", US 16/666448, 2019 [status: Filed].
-1. **Daiki Kimura**, and Ryuki Tachibana, "Region of Interest Weighted Anomaly Detection", US 16/149722, 2018 [status: Filed].
-1. Subhajit Chaudhury, **Daiki Kimura**, Tadanobu Inoue, and Ryuki Tachibana, "Method for closed loop model-based action learning with model-free inverse reinforcement learning", US 94882754, 2018 [status: Filed].
-1. **Daiki Kimura**, Sakyasingha Dasgupta, Subhajit Chaudhury, and Ryuki Tachibana, "Method for Inverse Reinforcement Learning by States Auto-Encoder", US 94661878, 2018 [status: Filed].
+1. Subhajit Chaudhury, **Daiki Kimura**, Michiaki Tatsubori, and Asim Munawar, "[Text-based response environment action selection](https://patents.google.com/patent/US11556788/en)", US 11556788B2, 2020 [status: **Grant**].
+1. Jason Marc Plawinski, **Daiki Kimura**, Tristan Matthieu Stampfler, Subhajit Chaudhury, and Asim Munawar, "[Image reconstruction based on edge loss](https://patents.google.com/patent/US11158059/en)", US 11158059B1, 2020 [status: **Grant**].
+1. Subhajit Chaudhury, **Daiki Kimura**, Asim Munawar, and Ryuki Tachibana, "[Accelerated object labeling using prior geometric knowledge](https://patents.google.com/patent/US11257240/en)", US 11257240B2, 2019 [status: **Grant**].
+1. **Daiki Kimura**, and Ryuki Tachibana, "[Region of interest weighted anomaly detection](https://patents.google.com/patent/US10909671/en)", US 10909671B2, 2018 [status: **Grant**].
+1. Subhajit Chaudhury, **Daiki Kimura**, Tadanobu Inoue, and Ryuki Tachibana, "[Closed loop model-based action learning with model-free inverse reinforcement learning](https://patents.google.com/patent/US11468334/en)", US 11468334B2, 2018 [status: **Grand**].
+1. **Daiki Kimura**, Sakyasingha Dasgupta, Subhajit Chaudhury, and Ryuki Tachibana, "[Reward estimation via state prediction using expert demonstrations](https://patents.google.com/patent/US20190272465A1/en)", US 20190272465A1, 2018 [status: Pending].
 1. **Daiki Kimura**, "[Image Processing Device for Pamphlet Analysis](https://patents.google.com/patent/JP6105179B1/en)", PCT/JP2016/069489, 2016 [status: **Grant**].
-1. **Daiki Kimura**, and Soh Masuko, "[Information Processing Device for E-Commerce Service](https://patents.google.com/patent/JP6397879B2/en)", JP6397879B2, 2016 [status: **Grant**].
-1. **Daiki Kimura**, and Osamu Hasegawa, "[Action Transfer Device](https://patents.google.com/patent/US20170326727A1/)", US20170326727A1, 2015 [status: Public].
-1. Osamu Hasegawa, and **Daiki Kimura**, "[Motion Transfer Device](http://t2r2.star.titech.ac.jp/cgi-bin/patentinfo.cgi?q_patent_content_number=CTT100713476)", #2016-107346, 2014 [status: Public]
+1. **Daiki Kimura**, and Soh Masuko, "[Information Processing Device for E-Commerce Service](https://patents.google.com/patent/JP6397879B2/en)", JP 6397879B2, 2016 [status: **Grant**].
+1. **Daiki Kimura**, and Osamu Hasegawa, "[Action Transfer Device](https://patents.google.com/patent/US20170326727A1/)", US 20170326727A1, 2015 [status: **Grant**].
+1. Osamu Hasegawa, and **Daiki Kimura**, "[Motion Transfer Device](http://t2r2.star.titech.ac.jp/cgi-bin/patentinfo.cgi?q_patent_content_number=CTT100713476)", JP 6550605, 2014 [status: **Grant**]
 1. Osamu Hasegawa, **Daiki Kimura**, Pichai Kankuekul, and Aram Kawewong, "[Attribute Learning and Transfer System](http://t2r2.star.titech.ac.jp/cgi-bin/patentinfo.cgi?q_patent_content_number=CTT100702198)", #5846553, 2011 [status: **Grant**]
 
 ---
@@ -216,8 +218,8 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research. He is now 
 
 **Languages**
 
-- Japanese, Native proficiency
-- English, Professional working proficiency
+- **Japanese**, Native proficiency
+- **English**, Professional working proficiency
 - Chinese, Elementary proficiency
 - Swiss German, Elementary proficiency
 - German, Elementary proficiency
