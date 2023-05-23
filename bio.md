@@ -4,11 +4,11 @@ If you are interested in an internship at our research lab, please see [http://i
 
 **Short Bio**
 
-Daiki Kimura is currently a Staff Research Scientist at IBM Research. He is now researching about [Geospatial Foundation Model](https://research.ibm.com/blog/geospatial-models-nasa-ai) and [Neuro-Symbolic AI](https://research.ibm.com/topics/neuro-symbolic-ai) ([NS toolkit](https://ibm.github.io/neuro-symbolic-ai/toolkit/)). He received his D.Eng. from Tokyo Institute of Technology in 2015. During the period, he was also a Research Fellow of Japan Society for the Promotion of Science, a Research Intern at Microsoft Research Asia, and so on. He was a Research Scientist at Rakuten Institute of Technology from 2015. He joined IBM Research in 2016 and became Technical Assistant of Tokyo Lab Director in 2020. He received Best Paper Award, Outstanding Young Researcher Award, Audience Award, and so on.
+Daiki Kimura is currently a Staff Research Scientist at IBM Research, and an Event Planning Board Member at Japanese Society for Artificial Intelligence. He is now researching about [Geospatial Foundation Model](https://research.ibm.com/blog/geospatial-models-nasa-ai) and [Neuro-Symbolic AI](https://research.ibm.com/topics/neuro-symbolic-ai) ([NS toolkit](https://ibm.github.io/neuro-symbolic-ai/toolkit/)). He received his D.Eng. from Tokyo Institute of Technology in 2015. During the period, he was also a Research Fellow of Japan Society for the Promotion of Science, a Research Intern at Microsoft Research Asia, and so on. He was a Research Scientist at Rakuten Institute of Technology from 2015. He joined IBM Research in 2016 and became Technical Assistant of Tokyo Lab Director in 2020. He received Best Paper Award, Outstanding Young Researcher Award, Audience Award, and so on.
 
 **木村 大毅**
 
-現在、IBM 東京基礎研究所 課長 専任研究員 博士(工学)、特に基盤モデルや、ニューロシンボリック AI などの研究に従事。2015 年 東京工業大学 博士課程修了。在学中、日本学術振興会 特別研究員等を兼任、Microsoft Research Asia 等で研究インターンシップに参加。2015 年 楽天技術研究所に入所。2016 年 IBM 東京基礎研究所に入所、2020 年 研究所所長技術補佐員を兼任。最優秀学術賞、若手奨励賞、オーディエンス賞などを受賞。また、中学校・高等学校教諭専修免許状（数学）を保有。
+現在、IBM 東京基礎研究所 課長 専任研究員 博士(工学)、及び人工知能学会 企画委員、特に基盤モデルやニューロシンボリック AI などの研究に従事。2015 年 東京工業大学 博士課程修了。在学中、日本学術振興会 特別研究員等を兼任、Microsoft Research Asia 等で研究インターンシップに参加。2015 年 楽天技術研究所に入所。2016 年 IBM 東京基礎研究所に入所、2020 年 研究所所長技術補佐員を兼任。最優秀学術賞、若手奨励賞、オーディエンス賞などを受賞。また、中学校・高等学校教諭専修免許状（数学）を保有。
 
 ---
 
@@ -17,10 +17,10 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research. He is now 
 - 2022 - Now: Technical Lead of Data pipeline for **Geospatial Foundation Model** ([Press1](https://newsroom.ibm.com/2023-02-01-IBM-and-NASA-Collaborate-to-Research-Impact-of-Climate-Change-with-AI), [Press2](https://research.ibm.com/blog/geospatial-models-nasa-ai), received **Grand Prize** at an external competition)
 - 2019 - 2022: Technical Lead of **Neuro-Symbolic Reinforcement Learning** ([LOA](https://github.com/IBM/LOA), [NeSA-Demo](https://github.com/IBM/nesa-demo), [Paper1](https://arxiv.org/abs/2110.10963), [Paper2](https://arxiv.org/abs/2110.10973))
 - 2017 - 2020: Technical Lead of **Visual Analysis by GAN during Robot-Human Interaction for Detecting Dementia** ([Paper](https://openaccess.thecvf.com/content_WACV_2020/html/Kimura_Adversarial_Discriminative_Attention_for_Robust_Anomaly_Detection_WACV_2020_paper.html), received **four awards**)
-- 2018 - 2019: Lecturer of **AI & Deep Learning with IBM Watson** ([CTA](https://www.ibm.com/ibm/jp/ja/cta.html), received **GM Award**)
+- 2018 - 2019: Lecturer of **AI & Deep Learning with IBM Watson** lecture series ([CTA](https://www.ibm.com/ibm/jp/ja/cta.html), received **GM Award**)
 - 2016 - 2019: Technical Lead of **Mario and Game RLs** ([Paper (Mario)](https://arxiv.org/abs/1806.01267), [Paper (DAQN)](https://arxiv.org/abs/1806.00630))
 - 2016 - 2018: Member of **Project Intu** ([Project page](https://www.ibm.com/opensource/open/projects/project-intu/), [Intu](https://github.com/watson-intu/self))
-- 2016 - Now: Supervisor of **9 internship/joint students** from CV, RL, Robotics, Planetary science, and Quantum labs.
+- As of Now: Supervised **9 internship/joint students** from CV, RL, Robotics, Planetary science, and Quantum labs at several universities.
 
 ---
 
@@ -33,8 +33,8 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research. He is now 
 - **Best Paper Award** _[top-1 in 126 papers]_ ([link](https://confit.atlas.jp/guide/event/ssii2020/static/awards)), Symposium on Sensing via Image Information, 2019
 - **Audience Award** _[top-1 in 42 presentations]_ ([link](https://confit.atlas.jp/guide/event/ssii2019/static/awards)), Symposium on Sensing via Image Information, 2019
 - IEEE Award, IEICE Tokai-Section Joint Conference, 2018
-- Digital Signage Award - Interaction section (to AI Janken project), Digital Signage Consortium, 2018
-- **Research Fund for Young Scientists (KAKENHI)** ($20K fund / 1.5 years), Japan Society for the Promotion of Science, 2014
+- Digital Signage Award - Interaction section to AI Janken project ([link](https://digital-signage.jp/award/2018/)), Digital Signage Consortium, 2018
+- **Research Fund for Young Scientists (KAKENHI)** including $20K fund / 1.5 years ([link](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-14J11476/)), Japan Society for the Promotion of Science, 2014
 - **Outstanding Young Researcher Award**, The Society of Instrument and Control Engineers, 2013
 - Special Award of Innovative Technologies (to SOINN technology), Ministry of Economy Trade and Industry, Japan, 2013
 - Total Exemption from Scholarship Repayment by Top 10% Outstanding Achievements, Japan Student Services Organization, 2012
@@ -99,15 +99,19 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research. He is now 
 - **D. Kimura**, M. Ono, S. Chaudhury, R. Kohita, A. Wachi, D. Agravante, M. Tatsubori, A. Munawar, and A. Gray, "[Neuro-Symbolic Reinforcement Learning with First-Order Logic](https://arxiv.org/abs/2110.10963)", EMNLP 2021.
 - **D. Kimura**, S. Chaudhury, M. Ono, M. Tatsubori, D. Agravante, A. Munawar, A. Wachi, R. Kohita, and A. Gray, "[LOA: Logical Optimal Actions for Text-based Interaction Games](https://arxiv.org/abs/2110.10973)", ACL 2021.
 - **D. Kimura**, S. Chaudhury, M. Narita, A. Munawar, and R. Tachibana, "[Adversarial Discriminative Attention for Robust Anomaly Detection](https://openaccess.thecvf.com/content_WACV_2020/html/Kimura_Adversarial_Discriminative_Attention_for_Robust_Anomaly_Detection_WACV_2020_paper.html)", WACV 2020.
+- S. Chaudhury, S. Swaminathan, **D. Kimura**, P. Sen, K. Murugesan, R. Uceda-Sosa, M. Tatsubori, A. Fokoue, P. Kapanipathi, A. Munawar, and A. Gray, "Learning Symbolic Rules over Abstract Meaning Representations for Textual Reinforcement Learning", ACL 2023.
+- D. Agravante, **D. Kimura**, M. Tatsubori, A. Munawar, and A. Gray, “Learning Neuro-Symbolic World Models with Conversational Proprioception”, ACL 2023.
 - T. Tanaka, **D. Kimura**, and M. Tatsubori, "[DiffG-RL: Leveraging Difference between Environment State and Common Sense](https://arxiv.org/abs/2211.16002)", EMNLP 2022.
 - S. Chaudhury, S. Swaminathan, C. Gunasekara, M. Crouse, S. Ravishankar, **D. Kimura**, K. Murugesan, R. Astudillo, T. Naseem, P. Kapanipathi, and A. Gray, "[X-FACTOR: A Cross-metric Evaluation of Factual Correctness in Abstractive Summarization](https://research.ibm.com/publications/x-factor-a-cross-metric-evaluation-of-factual-correctness-in-abstractive-summarization)", EMNLP 2022.
-- S. Chaudhury, P. Sen, M. Ono, **D.Kimura**, M. Tatsubori, and A. Munawar, "[Neuro-symbolic Approaches for Text-Based Policy Learning](https://research.ibm.com/publications/neuro-symbolic-approaches-for-text-based-policy-learning)", EMNLP 2021.
 
 ---
 
 **Publications**
-
+1. Subhajit Chaudhury, Sarathkrishna Swaminathan, **Daiki Kimura**, Prithviraj Sen, Keerthiram Murugesan, Rosario Uceda-Sosa, Michiaki Tatsubori, Achille Fokoue, Pavan Kapanipathi, Asim Munawar, and Alexander Gray, "Learning Symbolic Rules over Abstract Meaning Representations for Textual Reinforcement Learning", _Annual Meeting of the Association for Computational Linguistics (ACL)_, Jul 2023.
+1. Don Joven Agravante, **Daiki Kimura**, Michiaki Tatsubori, Asim Munawar, and Alexander Gray, “Learning Neuro-Symbolic World Models with Conversational Proprioception”, _Annual Meeting of the Association for Computational Linguistics (ACL)_, Jul 2023.
+1. Michiaki Tatsubori, **Daiki Kimura**, Takao Moriyama, Naomi Simumba, and Tatsuya Ishikawa, "A Programming Model for Geospatial Machine-Learning with Scalability in Hybrid Multiclouds", _European Geosciences Union (EGU)_, Apr 2023.
 1. Kenta Yoshii, **Daiki Kimura**, Akihiro Kosugi, Kaoru Shinkawa, Toshiro Takase, Masatomo Kobayashi, Yasunori Yamada, Miyuki Nemoto, Ryohei Watanabe, Miho Ota, Shinji Higashi, Kiyotaka Nemoto, Tetsuaki Arai, and Masafumi Nishimura, "[Screening of Mild Cognitive Impairment Through Conversations With Humanoid Robots: Exploratory Pilot Study](https://formative.jmir.org/2023/1/e42792)", _JMIR Formative Research_, Jan 2023.
+1. Michiaki Tatsubori, Takao Moriyama, Naomi Simumba, Tatsuya Ishikawa, Daniela Szwarcman, Blair Edwards, Bianca Zadrozny, Campbell Watson, Kommy Weldemariam, and **Daiki Kimura**, "Towards Accelerated Discovery Services for Geospatio-temporal Foundation Models", _American Geophysical Union Fall (AGU Fall)_, Dec 2022.
 1. Tsunehiko Tanaka, **Daiki Kimura**, and Michiaki Tatsubori, "[DiffG-RL: Leveraging Difference between Environment State and Common Sense](https://arxiv.org/abs/2211.16002)", _Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP)_, Dec 2022.
 1. Subhajit Chaudhury, Sarathkrishna Swaminathan, Chulaka Gunasekara, Maxwell Crouse, Srinivas Ravishankar, **Daiki Kimura**, Keerthiram Murugesan, Ramón Fernandez Astudillo, Tahira Naseem, Pavan Kapanipathi, and Alexander Gray, "[X-FACTOR: A Cross-metric Evaluation of Factual Correctness in Abstractive Summarization](https://research.ibm.com/publications/x-factor-a-cross-metric-evaluation-of-factual-correctness-in-abstractive-summarization)", _Conference on Empirical Methods in Natural Language Processing (EMNLP)_, Dec 2022.
 1. Tsunehiko Tanaka, **Daiki Kimura**, and Michiaki Tatsubori, "Reinforcement Learning with Common Sense from Visual Dataset", _Meeting on Image Recognition and Understanding (MIRU)_, Jul 2022 [oral].
@@ -179,19 +183,20 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research. He is now 
 
 **Patents**
 
-1. **Daiki Kimura**, Stefan Zecevic, Subhajit Chaudhury, Michiaki Tatsubori, "_(confidential)_", US18/187018, 2023 [status: Filed].
-1. Don Joven Ravoy Agravante, **Daiki Kimura**, Michiaki Tatsubori, "_(confidential)_", US18/073651, 2023 [status: Filed].
-1. Tsunehiko Tanaka, **Daiki Kimura**, Michiaki Tatsubori, "_(confidential)_", US17/812757, 2022 [status: Filed]
-1. **Daiki Kimura**, Masaki Ono, Subhajit Chaudhury, Michiaki Tatsubori, "_(confidential)_", US17/494055, 2021 [status: Filed].
+1. Naomi Simumba, Michiaki Tatsubori, **Daiki Kimura**, "_(confidential)_", US18321143, 2023 [status: Filed].
+1. **Daiki Kimura**, Stefan Zecevic, Subhajit Chaudhury, Michiaki Tatsubori, "_(confidential)_", US18187018, 2023 [status: Filed].
+1. Don Joven Ravoy Agravante, **Daiki Kimura**, Michiaki Tatsubori, "_(confidential)_", US18073651, 2023 [status: Filed].
+1. Tsunehiko Tanaka, **Daiki Kimura**, Michiaki Tatsubori, "_(confidential)_", US17812757, 2022 [status: Filed]
+1. **Daiki Kimura**, Masaki Ono, Subhajit Chaudhury, Michiaki Tatsubori, "_(confidential)_", US17494055, 2021 [status: Filed].
 1. "[Mapped Attribute Representations for Improving Generalization in Text-based Games via Summarization](https://priorart.ip.com/IPCOM/000266394D)", IPCOM000266394D, 2021 [status: Defensive Publication].
 1. "[Reinforcement Learning with Logical Neural Networks](https://priorart.ip.com/IPCOM/00265954D)", IPCOM000265954D, 2021 [status: Defensive Publication].
 1. "[Predicting Hidden State of an Object from Corpus](https://priorart.ip.com/IPCOM/00265947D)", IPCOM000265947D, 2021 [status: Defensive Publication].
-1. Akifumi Wachi, Ryosuke Kohita, **Daiki Kimura**, "_(confidential)_", US 17/110400, 2020 [status: Filed].
-1. Subhajit Chaudhury, **Daiki Kimura**, Gakuto Kurata, Ryuki Tachibana, "_(confidential)_", US 17/109550, 2020 [status: Filed].
-1. **Daiki Kimura**, Subhajit Chaudhury, Akifumi Wachi, Ryosuke Kohita, Asim Munawar, Michiaki Tatsubori, "_(confidential)_", US 17/102857, 2020 [status: Filed].
-1. **Daiki Kimura**, Akifumi Wachi, Subhajit Chaudhury, Ryosuke Kohita, Asim Munawar, Michiaki Tatsubori, "_(confidential)_", US 17/102804, 2020 [status: Filed].
-1. **Daiki Kimura**, Subhajit Chaudhury, Michiaki Tatsubori, Asim Munawar, Ryuki Tachibana, "_(confidential)_", US 17/099363, 2020 [status: Filed].
-1. Ryosuke Kohita, Akifumi Wachi, **Daiki Kimura**, "_(confidential)_", US 17/078221, 2020 [status: Filed].
+1. Akifumi Wachi, Ryosuke Kohita, **Daiki Kimura**, "_(confidential)_", US 17110400, 2020 [status: Filed].
+1. Subhajit Chaudhury, **Daiki Kimura**, Gakuto Kurata, Ryuki Tachibana, "_(confidential)_", US 17109550, 2020 [status: Filed].
+1. **Daiki Kimura**, Subhajit Chaudhury, Akifumi Wachi, Ryosuke Kohita, Asim Munawar, Michiaki Tatsubori, "_(confidential)_", US 17102857, 2020 [status: Filed].
+1. **Daiki Kimura**, Akifumi Wachi, Subhajit Chaudhury, Ryosuke Kohita, Asim Munawar, Michiaki Tatsubori, "_(confidential)_", US 17102804, 2020 [status: Filed].
+1. **Daiki Kimura**, Subhajit Chaudhury, Michiaki Tatsubori, Asim Munawar, Ryuki Tachibana, "_(confidential)_", US 17099363, 2020 [status: Filed].
+1. Ryosuke Kohita, Akifumi Wachi, **Daiki Kimura**, "_(confidential)_", US 17078221, 2020 [status: Filed].
 1. "[Deep frame interpolation of quantum wave video by introducing loss in Fourier space](https://priorart.ip.com/IPCOM/000262542)", IPCOM000262542D, 2020 [status: Defensive Publication].
 1. Subhajit Chaudhury, **Daiki Kimura**, Michiaki Tatsubori, and Asim Munawar, "[Text-based response environment action selection](https://patents.google.com/patent/US11556788/en)", US 11556788B2, 2020 [status: **Grant**].
 1. Jason Marc Plawinski, **Daiki Kimura**, Tristan Matthieu Stampfler, Subhajit Chaudhury, and Asim Munawar, "[Image reconstruction based on edge loss](https://patents.google.com/patent/US11158059/en)", US 11158059B1, 2020 [status: **Grant**].
@@ -226,7 +231,7 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research. He is now 
 
 ---
 
-
+　
 
 **Note: The following publication and patent lists contain only recent ones**
 
