@@ -16,11 +16,11 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research, and an Eve
 
 - 2022 - Now: Technical Lead of Data pipeline for **Geospatial Foundation Model** ([Press1](https://newsroom.ibm.com/2023-02-01-IBM-and-NASA-Collaborate-to-Research-Impact-of-Climate-Change-with-AI), [Press2](https://research.ibm.com/blog/geospatial-models-nasa-ai), received **Grand Prize** at an external competition)
 - 2019 - 2022: Technical Lead of **Neuro-Symbolic Reinforcement Learning** ([LOA](https://github.com/IBM/LOA), [NeSA-Demo](https://github.com/IBM/nesa-demo), [Paper1](https://arxiv.org/abs/2110.10963), [Paper2](https://arxiv.org/abs/2110.10973))
-- 2017 - 2020: Technical Lead of **Visual Analysis by GAN during Robot-Human Interaction for Detecting Dementia** ([Paper](https://openaccess.thecvf.com/content_WACV_2020/html/Kimura_Adversarial_Discriminative_Attention_for_Robust_Anomaly_Detection_WACV_2020_paper.html), received **four awards**)
+- 2017 - 2020: Technical Lead of **Visual Analysis by GAN during Robot-Human Interaction for Detecting Dementia** ([Paper](https://openaccess.thecvf.com/content_WACV_2020/html/Kimura_Adversarial_Discriminative_Attention_for_Robust_Anomaly_Detection_WACV_2020_paper.html), received **2 awards: Best Paper Award, Audience Award**)
 - 2018 - 2019: Lecturer of **AI & Deep Learning with IBM Watson** lecture series ([CTA](https://www.ibm.com/ibm/jp/ja/cta.html), received **GM Award**)
 - 2016 - 2019: Technical Lead of **Mario and Game RLs** ([Paper (Mario)](https://arxiv.org/abs/1806.01267), [Paper (DAQN)](https://arxiv.org/abs/1806.00630))
 - 2016 - 2018: Member of **Project Intu** ([Project page](https://www.ibm.com/opensource/open/projects/project-intu/), [Intu](https://github.com/watson-intu/self))
-- As of Now: Supervised **9 internship/joint students** from CV, RL, Robotics, Planetary science, and Quantum labs at several universities.
+- As of Now: Supervised **9 internship/joint students** from CV, RL, Robotics, Planetary science, and Quantum labs at several universities (received **IBM Academic Ambassador Contribution Award**, students received at least **3 awards**)
 
 ---
 
@@ -107,8 +107,10 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research, and an Eve
 ---
 
 **Publications**
+1. **Daiki Kimura**, Tatsuya Ishikawa, Masanori Mitsugi, Yasunori Kitakoshi, Takahiro Tanaka, Naomi Simumba, Kentaro Tanaka, Hiroaki Wakabayashi, Masato Sampei, and Michiaki Tatsubori, "Winning a Competition of Satellite Image Analysis", _Meeting on Image Recognition and Understanding (MIRU)_, Jul 2023.
 1. Subhajit Chaudhury, Sarathkrishna Swaminathan, **Daiki Kimura**, Prithviraj Sen, Keerthiram Murugesan, Rosario Uceda-Sosa, Michiaki Tatsubori, Achille Fokoue, Pavan Kapanipathi, Asim Munawar, and Alexander Gray, "Learning Symbolic Rules over Abstract Meaning Representations for Textual Reinforcement Learning", _Annual Meeting of the Association for Computational Linguistics (ACL)_, Jul 2023.
 1. Don Joven Agravante, **Daiki Kimura**, Michiaki Tatsubori, Asim Munawar, and Alexander Gray, “Learning Neuro-Symbolic World Models with Conversational Proprioception”, _Annual Meeting of the Association for Computational Linguistics (ACL)_, Jul 2023.
+1. Tatsuya Ishikawa, **Daiki Kimura**, Masanori Mitsugi, Yasunori Kitakoshi, Takahiro Tanaka, Naomi Simumba, and Michiaki Tatsubori, "On Image-to-image Translation from Sentinel-1 SAR to Indices derived by Sentinel-2", _Japan Geoscience Union Meeting (JpGU)_, May 2023 [talk].
 1. Michiaki Tatsubori, **Daiki Kimura**, Takao Moriyama, Naomi Simumba, and Tatsuya Ishikawa, "A Programming Model for Geospatial Machine-Learning with Scalability in Hybrid Multiclouds", _European Geosciences Union (EGU)_, Apr 2023.
 1. Kenta Yoshii, **Daiki Kimura**, Akihiro Kosugi, Kaoru Shinkawa, Toshiro Takase, Masatomo Kobayashi, Yasunori Yamada, Miyuki Nemoto, Ryohei Watanabe, Miho Ota, Shinji Higashi, Kiyotaka Nemoto, Tetsuaki Arai, and Masafumi Nishimura, "[Screening of Mild Cognitive Impairment Through Conversations With Humanoid Robots: Exploratory Pilot Study](https://formative.jmir.org/2023/1/e42792)", _JMIR Formative Research_, Jan 2023.
 1. Michiaki Tatsubori, Takao Moriyama, Naomi Simumba, Tatsuya Ishikawa, Daniela Szwarcman, Blair Edwards, Bianca Zadrozny, Campbell Watson, Kommy Weldemariam, and **Daiki Kimura**, "Towards Accelerated Discovery Services for Geospatio-temporal Foundation Models", _American Geophysical Union Fall (AGU Fall)_, Dec 2022.
@@ -183,6 +185,7 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research, and an Eve
 
 **Patents**
 
+1. Yeldar Toleubay, Don Joven Ravoy Agravante, Daiki Kimura, Michiaki Tatsubori, "_(confidential)_", US18214377, 2023 [status: Filed].
 1. Naomi Simumba, Michiaki Tatsubori, **Daiki Kimura**, "_(confidential)_", US18321143, 2023 [status: Filed].
 1. **Daiki Kimura**, Stefan Zecevic, Subhajit Chaudhury, Michiaki Tatsubori, "_(confidential)_", US18187018, 2023 [status: Filed].
 1. Don Joven Ravoy Agravante, **Daiki Kimura**, Michiaki Tatsubori, "_(confidential)_", US18073651, 2023 [status: Filed].
