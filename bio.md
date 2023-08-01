@@ -20,12 +20,14 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research, and an Eve
 - 2018 - 2019: Lecturer of **AI & Deep Learning with IBM Watson** lecture series ([CTA](https://www.ibm.com/ibm/jp/ja/cta.html), received **GM Award**)
 - 2016 - 2019: Technical Lead of **Mario and Game RLs** ([Paper (Mario)](https://arxiv.org/abs/1806.01267), [Paper (DAQN)](https://arxiv.org/abs/1806.00630))
 - 2016 - 2018: Member of **Project Intu** ([Project page](https://www.ibm.com/opensource/open/projects/project-intu/), [Intu](https://github.com/watson-intu/self))
-- As of Now: Supervised **9 internship/joint students** from CV, RL, Robotics, Planetary science, and Quantum labs at several universities (received **IBM Academic Ambassador Contribution Award**, students received at least **3 awards**)
+- As of Now: Supervised **9 internship/joint students** from CV, RL, Robotics, Planetary science, and Quantum labs at several universities (received **IBM Academic Ambassador Contribution Award**, students received **3 awards** by collaborations)
 
 ---
 
 **Awards and Funds**
 
+- **MIRU Interactive Presentation Award** _[given to 2 out of 116 presentations]_ ([link](http://cvim.ipsj.or.jp/MIRU2023/award/)), Meeting on Image Recognition and Understanding (MIRU), 2023
+- **MIRU Paper Evaluation Contribution Award** _[given to 5 out of 40 reviewers]_ ([link](http://cvim.ipsj.or.jp/MIRU2023/award/)), Meeting on Image Recognition and Understanding (MIRU), 2023
 - **Grand Prize** including $2K cache award _[top-1 score in 57 participants]_ ([link](https://connpass.com/event/264630/)), AI competition for satellite images by SpaceShift and Recruit, 2023
 - **IBM Academic Ambassador Contribution Award**, IBM Global University Programs, 2022
 - **1st Prize** of Excellent Paper Award ([link](http://www.ieee-lifetech.org/2021/awards.html)), IEEE LifeTech, 2021
