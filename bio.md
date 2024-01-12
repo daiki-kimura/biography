@@ -6,7 +6,7 @@ If you are interested in an internship, please see [http://ibm.biz/trl-intern-in
 
 **Short Bio**
 
-Daiki Kimura is currently a Staff Research Scientist at IBM Research, and an Event Planning Board Member at Japanese Society for Artificial Intelligence. He is now researching about [Geospatial Foundation Model](https://research.ibm.com/blog/geospatial-models-nasa-ai) and [Neuro-Symbolic AI](https://research.ibm.com/topics/neuro-symbolic-ai) ([NS toolkit](https://ibm.github.io/neuro-symbolic-ai/toolkit/)). He received his D.Eng. from Tokyo Institute of Technology in 2015. During the period, he was also a Research Fellow of Japan Society for the Promotion of Science, a Research Intern at Microsoft Research Asia, and so on. He was a Research Scientist at Rakuten Institute of Technology from 2015. He joined IBM Research in 2016 and became Technical Assistant of Tokyo Lab Director in 2020. He received Best Paper Award, Outstanding Young Researcher Award, Audience Award, and so on.
+Daiki Kimura is currently a Staff Research Scientist at IBM Research, and an Event Planning Board Member at Japanese Society for Artificial Intelligence. He is now researching about [Geospatial Foundation Model](https://huggingface.co/ibm-nasa-geospatial) and [Neuro-Symbolic AI](https://research.ibm.com/topics/neuro-symbolic-ai) ([NS toolkit](https://ibm.github.io/neuro-symbolic-ai/toolkit/)). He received his D.Eng. from Tokyo Institute of Technology in 2015. During the period, he was also a Research Fellow of Japan Society for the Promotion of Science, a Research Intern at Microsoft Research Asia, and so on. He was a Research Scientist at Rakuten Institute of Technology from 2015. He joined IBM Research in 2016 and became Technical Assistant of Tokyo Lab Director in 2020. He received Best Paper Award, Outstanding Young Researcher Award, Audience Award, and so on.
 
 **木村 大毅**
 
@@ -16,8 +16,8 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research, and an Eve
 
 **Projects in IBM**
 
-- 2022 - Now: Technical Lead of Data pipeline for **Geospatial Foundation Model** ([Press1](https://newsroom.ibm.com/2023-02-01-IBM-and-NASA-Collaborate-to-Research-Impact-of-Climate-Change-with-AI), [Press2](https://research.ibm.com/blog/geospatial-models-nasa-ai))
-- 2022 - 2023: Lead of **Generative AI model for Satellite Images** ([Competition](https://connpass.com/event/264630/), received **Grand Prize** at the competition, **Interactive Presentation Award** at MIRU 2023)
+- 2022 - Now: Technical Lead of Data pipeline for **Geospatial Foundation Model** ([Paper](https://arxiv.org/abs/2310.18660), [Press1](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face), [Press2](https://newsroom.ibm.com/2023-02-01-IBM-and-NASA-Collaborate-to-Research-Impact-of-Climate-Change-with-AI), [Press3](https://research.ibm.com/blog/geospatial-models-nasa-ai))
+- 2022 - 2023: Lead of **Generative AI model for Satellite Images** ([Competition](https://connpass.com/event/264630/), received **Grand Prize** at the competition, **Interactive Presentation Award** at MIRU 2023, **GM Award** in 2023)
 - 2019 - 2022: Technical Lead of **Neuro-Symbolic Reinforcement Learning** ([LOA](https://github.com/IBM/LOA), [NeSA-Demo](https://github.com/IBM/nesa-demo), [Paper1](https://arxiv.org/abs/2110.10963), [Paper2](https://arxiv.org/abs/2110.10973))
 - 2017 - 2020: Technical Lead of **Visual Analysis by GAN during Robot-Human Interaction for Detecting Dementia** ([Paper](https://openaccess.thecvf.com/content_WACV_2020/html/Kimura_Adversarial_Discriminative_Attention_for_Robust_Anomaly_Detection_WACV_2020_paper.html), received **2 awards: Best Paper Award, Audience Award**)
 - 2018 - 2019: Lecturer of **AI & Deep Learning with IBM Watson** lecture series ([CTA](https://www.ibm.com/ibm/jp/ja/cta.html), received **GM Award**)
@@ -29,7 +29,8 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research, and an Eve
 
 **Awards and Funds**
 
-- **MIRU Interactive Presentation Award** _[given to 2 out of 116 presentations]_ ([link](http://cvim.ipsj.or.jp/MIRU2023/award/)), Meeting on Image Recognition and Understanding (MIRU), 2023
+- **GM Award** / 社長賞 - Trailblazer/Beyond boundaries, IBM Japan, 2023
+- **MIRU Interactive Presentation Award** _[top-1 in 116 presentations]_ ([link](http://cvim.ipsj.or.jp/MIRU2023/award/)), Meeting on Image Recognition and Understanding (MIRU), 2023
 - **MIRU Paper Evaluation Contribution Award** _[given to 5 out of 40 reviewers]_ ([link](http://cvim.ipsj.or.jp/MIRU2023/award/)), Meeting on Image Recognition and Understanding (MIRU), 2023
 - **Grand Prize** including $2K cache award _[top-1 score in 57 participants]_ ([link](https://connpass.com/event/264630/)), AI competition for satellite images by SpaceShift and Recruit, 2023
 - **IBM Academic Ambassador Contribution Award**, IBM Global University Programs, 2022
@@ -52,15 +53,18 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research, and an Eve
 
 **Professional Activities**
 
+- **Organizing committee** (**Lead** of Finance), Symposium on Sensing via Image Information (SSII) 2024
+- **Program Committee**, **IJCAI 2020 - 2024**
+- **Program Committee**, **AAAI 2021 - 2024**
+- **Area Chair**, **EMNLP 2023**
+- **Organizing committee** (Sub-Lead of Finance), Symposium on Sensing via Image Information (SSII) 2023
 - **Organizer**, Neuro-Symbolic Agent (NSA) ([link](https://nsa-wksp.github.io/)), IJCAI 2023
-- **Program Committee**, **IJCAI 2020 - 2023**
-- **Program Committee**, **AAAI 2021 - 2023**
 - **Organizing committee** (Advisor of Local arrangement), Symposium on Sensing via Image Information (SSII) 2022
 - **Organizing committee** (**Lead** of Local arrangement), Symposium on Sensing via Image Information (SSII) 2021
 - **Organizing committee** (Member of Local arrangement), Symposium on Sensing via Image Information (SSII) 2020
 - Program Committee, Knowledge Based Reinforcement Learning Workshop ([link](https://kbrl.github.io/)), IJCAI 2020
 - Program Committee, ECML 2019
-- Reviewer for Conferences: EMNLP 2021-23, MIRU 2022-23, COLING 2022, SSRR 2020, ICPR 2020, IROS 2019, ICPR 2018, IROS 2017, etc.
+- Reviewer for Conferences: EMNLP 2021-23, MIRU 2022-23, COLING 2022 - 2024, SSRR 2020, ICPR 2020, IROS 2019, ICPR 2018, IROS 2017, etc.
 - Reviewer for Journals: [AI Journal](https://www.sciencedirect.com/journal/artificial-intelligence), [IEEE TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), [JSAI](https://www.ai-gakkai.or.jp/), [IEEE SPL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97), [IEEJ](https://www.iee.jp/), [IEICE](https://www.ieice.org/)
 - Reviewer for Government funds: [NRF of South Africa](https://www.nrf.ac.za/)
 
@@ -68,7 +72,9 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research, and an Eve
 
 **Invited Talks / Lecture**
 
-- Lecture, "Past, present, and future of humanity and our society with AI", Tohoku University, Japan, 2021 - 2022
+- Lecture, "Past, present, and future of humanity and our society with AI", Tohoku University, Japan, 2023
+- Lecture, "Past, present, and future of humanity and our society with AI", Tohoku University, Japan, 2022
+- Lecture, "Past, present, and future of humanity and our society with AI", Tohoku University, Japan, 2021
 - Invited Lecture, Technical Committee on Industrial Application of Image Processing, Japan, 2017
 - Assistant of Invited Talk, Cognizance at Indian Institute of Technology, Roorkee, India, 2014
 - Invited Talk & Demo, Kshitij at Indian Institute of Technology, Kharagpur, India, 2013
@@ -92,7 +98,7 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research, and an Eve
 - Sep 2014 - Dec 2014, **Research Intern**, **Microsoft Research Asia**, China
 - Oct 2012 - Mar 2014, Teaching and Research Assistant, Tokyo Institute of Technology, Japan
 - Oct 2012 - Sep 2013, **Member of Students Committee**, Tokyo Institute of Technology, Japan
-- Sep 2014 - Dec 2014, **Research Intern**, **University of Applied Sciences Northwestern Switzerland** (FHNW) [via IAESTE], Switzerland
+- Sep 2011 - Feb 2012, **Research Intern**, **University of Applied Sciences Northwestern Switzerland** (FHNW) [via IAESTE], Switzerland
 - Nov 2008 - Feb 2014, Part-time Lecturer, Rinkai Seminar, Japan
 - Sep 2007 - Oct 2007, Intern, TMC System, Japan
 
@@ -100,12 +106,13 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research, and an Eve
 
 **Selected publications**
 
-- **D. Kimura**, T. Ishikawa, M. Mitsugi, Y. Kitakoshi, T. Tanaka, N. Simumba, K. Tanaka, H. Wakabayashi, M. Sampei, and M. Tatsubori, "Pre-Training and Fine-Tuning for Satellite Image-to-Image Translation", IJCAI workshop 2023.
+- **D. Kimura**, T. Ishikawa, M. Mitsugi, Y. Kitakoshi, T. Tanaka, N. Simumba, K. Tanaka, H. Wakabayashi, M. Sampei, and M. Tatsubori, "Pre-training for SAR-to-NDVI Image Translation", ICASSP 2024.
 - **D. Kimura**, S. Zecevic, S. Chaudhury, S. Swaminathan, D. Agravante, M. Tatsubori, A. Munawar, and A. Gray, "Explainable Neuro-Symbolic Reinforcement Learning", IJCAI workshop 2023.
 - **D. Kimura**, T. ishikawa, M. Mitsugi, Y. Kitakoshi, T. Tanaka, N. Simumba, K. Tanaka, H. Wakabayashi, M. Sampei, and M. Tatsubori, "Winning a Competition of Satellite Image Analysis", MIRU 2023 [**interactive presentation award**].
 - **D. Kimura**, M. Ono, S. Chaudhury, R. Kohita, A. Wachi, D. Agravante, M. Tatsubori, A. Munawar, and A. Gray, "[Neuro-Symbolic Reinforcement Learning with First-Order Logic](https://arxiv.org/abs/2110.10963)", EMNLP 2021.
 - **D. Kimura**, S. Chaudhury, M. Ono, M. Tatsubori, D. Agravante, A. Munawar, A. Wachi, R. Kohita, and A. Gray, "[LOA: Logical Optimal Actions for Text-based Interaction Games](https://arxiv.org/abs/2110.10973)", ACL 2021.
 - **D. Kimura**, S. Chaudhury, M. Narita, A. Munawar, and R. Tachibana, "[Adversarial Discriminative Attention for Robust Anomaly Detection](https://openaccess.thecvf.com/content_WACV_2020/html/Kimura_Adversarial_Discriminative_Attention_for_Robust_Anomaly_Detection_WACV_2020_paper.html)", WACV 2020.
+- J. Jakubik, S. Roy, C. Phillips, P. Fraccaro, D. Godwin, B. Zadrozny, D. Szwarcman, C. Gomes, G. Nyirjesy, B. Edwards, **D. Kimura**, N. Simumba, L. Chu, and et al., "[Foundation Models for Generalist Geospatial Artificial Intelligence](https://arxiv.org/abs/2310.18660)", Arxiv 2023.
 - S. Chaudhury, S. Swaminathan, **D. Kimura**, P. Sen, K. Murugesan, R. Uceda-Sosa, M. Tatsubori, A. Fokoue, P. Kapanipathi, A. Munawar, and A. Gray, "Learning Symbolic Rules over Abstract Meaning Representations for Textual Reinforcement Learning", ACL 2023.
 - D. Agravante, **D. Kimura**, M. Tatsubori, A. Munawar, and A. Gray, “Learning Neuro-Symbolic World Models with Conversational Proprioception”, ACL 2023.
 - T. Tanaka, **D. Kimura**, and M. Tatsubori, "[DiffG-RL: Leveraging Difference between Environment State and Common Sense](https://arxiv.org/abs/2211.16002)", EMNLP 2022.
@@ -114,10 +121,15 @@ Daiki Kimura is currently a Staff Research Scientist at IBM Research, and an Eve
 ---
 
 **Publications**
-1. **Daiki Kimura**, Tatsuya Ishikawa, Masanori Mitsugi, Yasunori Kitakoshi, Takahiro Tanaka, Naomi Simumba, Kentaro Tanaka, Hiroaki Wakabayashi, Masato Sampei, and Michiaki Tatsubori, "Pre-Training and Fine-Tuning for Satellite Image-to-Image Translation", *IJCAI workshop on Bridge-AI: from Climate Change to Health Equity*, 2023.
-1. **Daiki Kimura**, Stefan Zecevic, Subhajit Chaudhury, Sarathkrishna Swaminathan, Don Joven Agravante, Michiaki Tatsubori, Asim Munawar, and Alexander Gray, "Explainable Neuro-Symbolic Reinforcement Learning", *IJCAI workshop on Neuro-Symbolic Agents*, 2023.
-1. Minori Narita, and **Daiki Kimura**, "Introducing Trial-and-Error Exploration to Avoid Critical Failure for Efficient Reinforcement Learning", *IJCAI workshop on Neuro-Symbolic Agents*, 2023.
-1. Don Joven Agravante, **Daiki Kimura**, Michiaki Tatsubori, Asim Munawar, and Alexander Gray, "Neuro-Symbolic Model-based RL with Logical Neural Network", *IJCAI workshop on Neuro-Symbolic Agents*, 2023.
+1. **Daiki Kimura**, Tatsuya Ishikawa, Masanori Mitsugi, Yasunori Kitakoshi, Takahiro Tanaka, Naomi Simumba, Kentaro Tanaka, Hiroaki Wakabayashi, Masato Sampei, and Michiaki Tatsubori, "Pre-training for SAR-to-NDVI Image Translation", _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2024.
+1. **Daiki Kimura**, Naomi Simumba, Marcus Freitag, Johannes Schmude, and Michiaki Tatsubori, "Area Sampling for Training Geospatial Foundation Models", _American Geophysical Union Annual Meeting (AGU)_, 2023.
+1. Michiaki Tatsubori, Naomi Simumba, and **Daiki Kimura**, "Data Leakage in Applying Geospatial Foundation Models", _American Geophysical Union Annual Meeting (AGU)_, 2023.
+1. Rahul Ramachandran, Iksha Gurung, Muthukumaran Ramasubramanian, Sujit Roy, Christopher Edward Phillips, Manil Maskey, Pontus Olofsson, Tsengdar J Lee, Kevin J Murphy, Elizabeth Fancher, Daniel Duffy, Michael M. Little, Johannes Jakubik, Linsong Chu, Paolo Fraccaro, **Daiki Kimura**, Naomi Simumba, Daniela Szwarcman, Michal Muszynski, Komminist Weldemariam, Bianca Zadrozny, Raghu K Ganti, Hamed Alemohammad, Hanxi Li, Michael Cecil, Sam Khallaghi, Denys Godwin, Maryam Ahmadi, Fatemeh Kordi, and Ankur Kumar, "Foundation Models for Science: An Open Collaborative Initiative", _American Geophysical Union Annual Meeting (AGU)_, 2023.
+1. Johannes Jakubik, Sujit Roy, C. E. Phillips, Paolo Fraccaro, Denys Godwin, Bianca Zadrozny, Daniela Szwarcman, Carlos Gomes, Gabby Nyirjesy, Blair Edwards, **Daiki Kimura**, Naomi Simumba, Linsong Chu, S. Karthik Mukkavilli, Devyani Lambhate, Kamal Das, Ranjini Bangalore, Dario Oliveira, Michal Muszynski, Kumar Ankur, Muthukumaran Ramasubramanian, Iksha Gurung, Sam Khallaghi, Hanxi Li, Michael Cecil, Maryam Ahmadi, Fatemeh Kordi, Hamed Alemohammad, Manil Maskey, Raghu Ganti, Kommy Weldemariam, and Rahul Ramachandran, "[Foundation Models for Generalist Geospatial Artificial Intelligence](https://arxiv.org/abs/2310.18660)", _Arxiv Tech report_,  Oct 2023.
+1. **Daiki Kimura**, Tatsuya Ishikawa, Masanori Mitsugi, Yasunori Kitakoshi, Takahiro Tanaka, Naomi Simumba, Kentaro Tanaka, Hiroaki Wakabayashi, Masato Sampei, and Michiaki Tatsubori, "Pre-Training and Fine-Tuning for Satellite Image-to-Image Translation", _IJCAI workshop on Bridge-AI: from Climate Change to Health Equity_, 2023.
+1. **Daiki Kimura**, Stefan Zecevic, Subhajit Chaudhury, Sarathkrishna Swaminathan, Don Joven Agravante, Michiaki Tatsubori, Asim Munawar, and Alexander Gray, "Explainable Neuro-Symbolic Reinforcement Learning", _IJCAI workshop on Neuro-Symbolic Agents_, 2023.
+1. Minori Narita, and **Daiki Kimura**, "Introducing Trial-and-Error Exploration to Avoid Critical Failure for Efficient Reinforcement Learning", _IJCAI workshop on Neuro-Symbolic Agents_, 2023.
+1. Don Joven Agravante, **Daiki Kimura**, Michiaki Tatsubori, Asim Munawar, and Alexander Gray, "Neuro-Symbolic Model-based RL with Logical Neural Network", _IJCAI workshop on Neuro-Symbolic Agents_, 2023.
 1. **Daiki Kimura**, Tatsuya Ishikawa, Masanori Mitsugi, Yasunori Kitakoshi, Takahiro Tanaka, Naomi Simumba, Kentaro Tanaka, Hiroaki Wakabayashi, Masato Sampei, and Michiaki Tatsubori, "Winning a Competition of Satellite Image Analysis", _Meeting on Image Recognition and Understanding (MIRU)_, Jul 2023 [**interactive presentation award**].
 1. Subhajit Chaudhury, Sarathkrishna Swaminathan, **Daiki Kimura**, Prithviraj Sen, Keerthiram Murugesan, Rosario Uceda-Sosa, Michiaki Tatsubori, Achille Fokoue, Pavan Kapanipathi, Asim Munawar, and Alexander Gray, "Learning Symbolic Rules over Abstract Meaning Representations for Textual Reinforcement Learning", _Annual Meeting of the Association for Computational Linguistics (ACL)_, Jul 2023.
 1. Don Joven Agravante, **Daiki Kimura**, Michiaki Tatsubori, Asim Munawar, and Alexander Gray, “Learning Neuro-Symbolic World Models with Conversational Proprioception”, _Annual Meeting of the Association for Computational Linguistics (ACL)_, Jul 2023.
