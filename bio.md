@@ -224,6 +224,7 @@ Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sus
 
 **Patents**
 
+1. Devyani Lambhate, Vijay Ekambaram, Ranjini Bangalore Guruprasad, Kamal Chandra Das, Michiaki Tatsubori, **Daiki Kimura**, and Naomi Simumba, "_(confidential)_", US 18/814844, 2024 [status: Filed].
 1. Thomas Andre Maxime Carta, **Daiki Kimura**, Don Joven Ravoy Agravante, Takaaki Tateishi, Toshihiro Takahashi, Michiaki Tatsubori, "_(confidential)_", US18/800225, 2024 [status: Filed].
 1. Thomas Andre Maxime Carta, **Daiki Kimura**, Don Joven Ravoy Agravante, Michiaki Tatsubori, "_(confidential)_", US18/473808, 2023 [status: Filed].
 1. Yeldar Toleubay, Don Joven Ravoy Agravante, **Daiki Kimura**, Michiaki Tatsubori, "_(confidential)_", US18214377, 2023 [status: Filed].
