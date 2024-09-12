@@ -17,14 +17,14 @@ Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sus
 **Projects in IBM**
 
 - 2024 - Now: Manager of **Climate & Sustainability team** (e.g. Geospatial, Visual, and Time-series Foundation Model) in Japan
-- 2022 - Now: Lead in Tokyo team for **Geospatial Foundation Model** ([Paper](https://arxiv.org/abs/2310.18660), [Press1](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face), [Press2](https://newsroom.ibm.com/2023-02-01-IBM-and-NASA-Collaborate-to-Research-Impact-of-Climate-Change-with-AI), [Press3](https://research.ibm.com/blog/geospatial-models-nasa-ai))
+- 2022 - Now: Lead of Tokyo team for **Geospatial Foundation Model** ([Paper](https://arxiv.org/abs/2310.18660), [Press1](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face), [Press2](https://newsroom.ibm.com/2023-02-01-IBM-and-NASA-Collaborate-to-Research-Impact-of-Climate-Change-with-AI), [Press3](https://research.ibm.com/blog/geospatial-models-nasa-ai))
 - 2022 - 2023: Lead of **Generative AI model for Satellite Images** ([Competition](https://connpass.com/event/264630/), received **Grand Prize** at the competition, **Interactive Presentation Award** at MIRU 2023, **GM Award** in 2023)
 - 2019 - 2022: Technical Lead of **Neuro-Symbolic Reinforcement Learning** ([LOA](https://github.com/IBM/LOA), [NeSA-Demo](https://github.com/IBM/nesa-demo), [Paper1](https://arxiv.org/abs/2110.10963), [Paper2](https://arxiv.org/abs/2110.10973))
 - 2017 - 2020: Technical Lead of **Visual Analysis by GAN during Robot-Human Interaction for Detecting Dementia** ([Paper](https://openaccess.thecvf.com/content_WACV_2020/html/Kimura_Adversarial_Discriminative_Attention_for_Robust_Anomaly_Detection_WACV_2020_paper.html), received **2 awards: Best Paper Award, Audience Award**)
 - 2018 - 2019: Lecturer of **AI & Deep Learning with IBM Watson** lecture series ([CTA](https://www.ibm.com/ibm/jp/ja/cta.html), received **GM Award**)
 - 2016 - 2019: Technical Lead of **Mario and Game RLs** ([Paper (Mario)](https://arxiv.org/abs/1806.01267), [Paper (DAQN)](https://arxiv.org/abs/1806.00630))
 - 2016 - 2018: Member of **Project Intu** ([Project page](https://www.ibm.com/opensource/open/projects/project-intu/), [Intu](https://github.com/watson-intu/self))
-- As of Now: Supervised **9 internship/joint students** from CV, RL, Robotics, Planetary science, and Quantum labs at several universities (received **IBM Academic Ambassador Contribution Award**, students received **3 awards** by collaborations)
+- As of Now: Supervised **11 internship/joint students** from CV, RL, Robotics, and Quantum labs at several universities (received **IBM Academic Ambassador Contribution Award**, students received **3 awards** by collaborations)
 
 ---
 
