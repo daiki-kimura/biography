@@ -16,8 +16,8 @@ Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sus
 
 **Projects in IBM**
 
-- 2024 - Now: Manager of **Climate & Sustainability team** (e.g. Geospatial and Visual Foundation Model) in Japan
-- 2022 - Now: Technical Lead of Data and Multi-satellites training for **Geospatial Foundation Model** ([Paper](https://arxiv.org/abs/2310.18660), [Press1](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face), [Press2](https://newsroom.ibm.com/2023-02-01-IBM-and-NASA-Collaborate-to-Research-Impact-of-Climate-Change-with-AI), [Press3](https://research.ibm.com/blog/geospatial-models-nasa-ai))
+- 2024 - Now: Manager of **Climate & Sustainability team** (e.g. Geospatial, Visual, and Time-series Foundation Model) in Japan
+- 2022 - Now: Lead in Tokyo team for **Geospatial Foundation Model** ([Paper](https://arxiv.org/abs/2310.18660), [Press1](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face), [Press2](https://newsroom.ibm.com/2023-02-01-IBM-and-NASA-Collaborate-to-Research-Impact-of-Climate-Change-with-AI), [Press3](https://research.ibm.com/blog/geospatial-models-nasa-ai))
 - 2022 - 2023: Lead of **Generative AI model for Satellite Images** ([Competition](https://connpass.com/event/264630/), received **Grand Prize** at the competition, **Interactive Presentation Award** at MIRU 2023, **GM Award** in 2023)
 - 2019 - 2022: Technical Lead of **Neuro-Symbolic Reinforcement Learning** ([LOA](https://github.com/IBM/LOA), [NeSA-Demo](https://github.com/IBM/nesa-demo), [Paper1](https://arxiv.org/abs/2110.10963), [Paper2](https://arxiv.org/abs/2110.10973))
 - 2017 - 2020: Technical Lead of **Visual Analysis by GAN during Robot-Human Interaction for Detecting Dementia** ([Paper](https://openaccess.thecvf.com/content_WACV_2020/html/Kimura_Adversarial_Discriminative_Attention_for_Robust_Anomaly_Detection_WACV_2020_paper.html), received **2 awards: Best Paper Award, Audience Award**)
@@ -30,6 +30,7 @@ Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sus
 
 **Awards and Funds**
 
+- **JSAI Field Innovation Award** ([link](https://www.ai-gakkai.or.jp/about/award/#INNOVATION)), Japanese Society for Artificial Intelligence, 2024
 - **IPSJ Research and Engineering Award** ([link](https://www.ipsj.or.jp/award/re-award.html)), Information Processing Society of Japan, 2024
 - **GM Award** / 社長賞 - Trailblazer/Beyond boundaries, IBM Japan, 2023
 - **MIRU Interactive Presentation Award** _[top-1 in 116 presentations]_ ([link](http://cvim.ipsj.or.jp/MIRU2023/award/)), Meeting on Image Recognition and Understanding (MIRU), 2023
@@ -66,7 +67,7 @@ Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sus
 - **Organizing committee** (Member of Local arrangement), Symposium on Sensing via Image Information (SSII) 2020
 - Program Committee, Knowledge Based Reinforcement Learning Workshop ([link](https://kbrl.github.io/)), IJCAI 2020
 - Program Committee, ECML 2019
-- Reviewer for Conferences: EMNLP 2021-23, MIRU 2022-23, COLING 2022 - 2024, SSRR 2020, ICPR 2020, IROS 2019, ICPR 2018, IROS 2017, etc.
+- Reviewer for Conferences: EMNLP 2021-24, MIRU 2022-24, COLING 2022 - 2024, SSRR 2020, ICPR 2020, IROS 2019, ICPR 2018, IROS 2017, etc.
 - Reviewer for Journals: [AI Journal](https://www.sciencedirect.com/journal/artificial-intelligence), [IEEE TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), [JSAI](https://www.ai-gakkai.or.jp/), [IEEE SPL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97), [IEEJ](https://www.iee.jp/), [IEICE](https://www.ieice.org/)
 - Reviewer for Government funds: [NRF of South Africa](https://www.nrf.ac.za/)
 
@@ -88,13 +89,14 @@ Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sus
 
 **Working experience**
 
+- May 2024 - Now, **Senior Research Scientist**, IBM Research, Japan
 - Feb 2024 - Now, **Manager**, IBM Research, Japan
 - Jan 2024 - Now, **Master Inventor**, IBM Research
-- Oct 2016 - Now, **Research Scientist**, IBM Research, Japan
 - Dec 2022 - Now, **Event Planning Board Member** (YouTube video manager), Japanese Society for Artificial Intelligence ([link](https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard_2023/)), Japan
 - Sep 2022 - Now, **JP Steering Committee of Invention Development Team**, IBM Research, Japan
 - Mar 2023 - Now, **Member of Invention Development Team** on Core DL Methods, IBM Research
 - Nov 2021 - Now, **Member of Invention Development Team** on Neuro-Symbolic AI, IBM Research
+- Oct 2016 - Apr 2024, **Research Scientist**, IBM Research, Japan
 - Oct 2020 - Jun 2021, **Technical Assistant for Director of Research Tokyo**, IBM Research, Japan
 - Oct 2015 - Sep 2016, **Research Scientist**, **Rakuten Institute of Technology**, Japan
 - Apr 2014 - Sep 2015, **Research Fellow for Young Scientists**, **Japan Society for the Promotion of Science (JSPS)**, Japan
