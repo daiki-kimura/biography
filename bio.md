@@ -6,17 +6,17 @@ Internship: Please see [here](https://www.ibm.com/careers/search?field_keyword_0
 
 **Short Bio**
 
-Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sustainability team at IBM Research in Tokyo, and Event Planning Board Member at Japanese Society for Artificial Intelligence. He is now researching about [Geospatial Foundation Model](https://huggingface.co/ibm-nasa-geospatial) and leading the group in Tokyo. He received his D.Eng. from Tokyo Institute of Technology in 2015. During the period, he was also a Research Fellow of Japan Society for the Promotion of Science, a Research Intern at Microsoft Research Asia, and so on. He was a Research Scientist at Rakuten Institute of Technology from 2015. He joined IBM Research in 2016 and became Technical Assistant of Tokyo Lab Director in 2020. He received IPSJ Research and Engineering Award in 2023, Best Paper Award in 2019, Grand Prize in Satellite Image AI Competition in 2023, and so on.
+Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sustainability team at IBM Research in Tokyo, and Event Planning Board Member at Japanese Society for Artificial Intelligence. He is now researching about [Geospatial Foundation Model](https://huggingface.co/ibm-nasa-geospatial) and leading the group in Tokyo. He received his D.Eng. from Tokyo Institute of Technology in 2015. During the period, he was also a Research Fellow of Japan Society for the Promotion of Science, a Research Intern at Microsoft Research Asia, and so on. He was a Research Scientist at Rakuten Institute of Technology from 2015. He joined IBM Research in 2016 and became Technical Assistant of Tokyo Lab Director in 2020. He received IPSJ Research and Engineering Award in 2023, JSAI Field Innovation Award 2023, Grand Prize in Satellite Image AI Competition in 2023, and so on.
 
 **木村 大毅**
 
-現在、IBM 東京基礎研究所 シニアリサーチサイエンティスト、クライメイト&サステナビリティ担当部長、及び人工知能学会 企画委員。2015 年 東京工業大学 博士課程修了。在学中、日本学術振興会 特別研究員等を兼任、Microsoft Research Asia 等で研究インターンシップに参加。2015 年 楽天技術研究所に入所。2016 年 IBM 東京基礎研究所に入所、2020 年 研究所所長技術補佐員を兼任、現在に至る。特に、地理空間基盤モデル、画像 AI などの研究に従事。2023 年度 IPSJ 情報処理技術研究開発賞、SSII 2019 最優秀学術賞、2023 年度 衛星画像 AI コンペ 最優秀賞、MIRU 2023 インタラクティブ発表賞などを受賞。また、中学校・高等学校教諭専修免許状（数学）を保有。
+現在、IBM 東京基礎研究所 シニアリサーチサイエンティスト、クライメイト&サステナビリティ担当部長、及び人工知能学会 企画委員。2015 年 東京工業大学 博士課程修了。在学中、日本学術振興会 特別研究員等を兼任、Microsoft Research Asia 等で研究インターンシップに参加。2015 年 楽天技術研究所に入所。2016 年 IBM 東京基礎研究所に入所、2020 年 研究所所長技術補佐員を兼任、現在に至る。特に、地理空間基盤モデル、画像 AI などの研究に従事。2023 年度 IPSJ 情報処理技術研究開発賞、2023 年度 JSAI 現場イノベーション賞、2023 年度 衛星画像 AI コンペ 最優秀賞などを受賞。また、中学校・高等学校教諭専修免許状（数学）を保有。
 
 ---
 
 **Projects in IBM**
 
-- 2024 - Now: Manager of **Climate & Sustainability team** (e.g. Geospatial, Visual, and Time-series Foundation Model) in Japan
+- 2024 - Now: Manager of **Climate & Sustainability team** (e.g. Geospatial, Time-series, and Visual Foundation Model) in Japan
 - 2022 - Now: Lead of Tokyo team for **Geospatial Foundation Model** ([Paper](https://arxiv.org/abs/2310.18660), [Press1](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face), [Press2](https://newsroom.ibm.com/2023-02-01-IBM-and-NASA-Collaborate-to-Research-Impact-of-Climate-Change-with-AI), [Press3](https://research.ibm.com/blog/geospatial-models-nasa-ai))
 - 2022 - 2023: Lead of **Generative AI model for Satellite Images** ([Competition](https://connpass.com/event/264630/), received **Grand Prize** at the competition, **Interactive Presentation Award** at MIRU 2023, **GM Award** in 2023)
 - 2019 - 2022: Technical Lead of **Neuro-Symbolic Reinforcement Learning** ([LOA](https://github.com/IBM/LOA), [NeSA-Demo](https://github.com/IBM/nesa-demo), [Paper1](https://arxiv.org/abs/2110.10963), [Paper2](https://arxiv.org/abs/2110.10973))
@@ -118,16 +118,21 @@ Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sus
 - **D. Kimura**, M. Ono, S. Chaudhury, R. Kohita, A. Wachi, D. Agravante, M. Tatsubori, A. Munawar, and A. Gray, "[Neuro-Symbolic Reinforcement Learning with First-Order Logic](https://arxiv.org/abs/2110.10963)", EMNLP 2021.
 - **D. Kimura**, S. Chaudhury, M. Ono, M. Tatsubori, D. Agravante, A. Munawar, A. Wachi, R. Kohita, and A. Gray, "[LOA: Logical Optimal Actions for Text-based Interaction Games](https://arxiv.org/abs/2110.10973)", ACL 2021.
 - **D. Kimura**, S. Chaudhury, M. Narita, A. Munawar, and R. Tachibana, "[Adversarial Discriminative Attention for Robust Anomaly Detection](https://openaccess.thecvf.com/content_WACV_2020/html/Kimura_Adversarial_Discriminative_Attention_for_Robust_Anomaly_Detection_WACV_2020_paper.html)", WACV 2020.
+- T. Sakai, H. Qiu, T. Katsuki, **D. Kimura**, T. Osogami, and T. Inoue, "A Surprisingly Simple Approach to Generalized Few-Shot Semantic Segmentation", NeurIPS 2024.
 - J. Jakubik, S. Roy, C. Phillips, P. Fraccaro, D. Godwin, B. Zadrozny, D. Szwarcman, C. Gomes, G. Nyirjesy, B. Edwards, **D. Kimura**, N. Simumba, L. Chu, and et al., "[Foundation Models for Generalist Geospatial Artificial Intelligence](https://arxiv.org/abs/2310.18660)", Arxiv 2023.
 - S. Chaudhury, S. Swaminathan, **D. Kimura**, P. Sen, K. Murugesan, R. Uceda-Sosa, M. Tatsubori, A. Fokoue, P. Kapanipathi, A. Munawar, and A. Gray, "Learning Symbolic Rules over Abstract Meaning Representations for Textual Reinforcement Learning", ACL 2023.
 - D. Agravante, **D. Kimura**, M. Tatsubori, A. Munawar, and A. Gray, “Learning Neuro-Symbolic World Models with Conversational Proprioception”, ACL 2023.
 - T. Tanaka, **D. Kimura**, and M. Tatsubori, "[DiffG-RL: Leveraging Difference between Environment State and Common Sense](https://arxiv.org/abs/2211.16002)", EMNLP 2022.
-- S. Chaudhury, S. Swaminathan, C. Gunasekara, M. Crouse, S. Ravishankar, **D. Kimura**, K. Murugesan, R. Astudillo, T. Naseem, P. Kapanipathi, and A. Gray, "[X-FACTOR: A Cross-metric Evaluation of Factual Correctness in Abstractive Summarization](https://research.ibm.com/publications/x-factor-a-cross-metric-evaluation-of-factual-correctness-in-abstractive-summarization)", EMNLP 2022.
 
 ---
 
 **Publications**
 
+1. Tomoya Sakai, Haoxiang Qiu, Takayuki Katsuki, **Daiki Kimura**, Takayuki Osogami, and Tadanobu Inoue, "A Surprisingly Simple Approach to Generalized Few-Shot Semantic Segmentation", _Conference on Neural Information Processing Systems (NeurIPS)_, Dec 2024.
+1. **Daiki Kimura**, Naomi Simumba, Marcus Freitag, Johannes Schmude, Daniela Szwarcman, Michiaki Tatsubori, Paolo Fraccaro, and Campbell Watson, "Global Area Sampling for Geospatial Foundation Model", _American Geophysical Union Annual Meeting (AGU)_, Dec 2024.
+1. **Daiki Kimura**, Tatsuya Ishikawa, Naomi Simumba, Michiaki Tatsubori, Takao Moriyama, Harini Srinivasan and Levente Klein, "Predicting NDVI from SAR Images toward Above Ground Biomass Estimation", _American Geophysical Union Annual Meeting (AGU)_, Dec 2024.
+1. Sina Klampt, Tatsuya Ishikawa, and **Daiki Kimura**, "Transductive Transfer-Learning for Land Use Land Cover Classification", _American Geophysical Union Annual Meeting (AGU)_, Dec 2024.
+1. Haoxiang Qiu, **Daiki Kimura**, Sakai Tomoya, and Katsuki Takayuki, "Exploring Different Types of Foundation Models on Flood Segmentation Datasets", _American Geophysical Union Annual Meeting (AGU)_, Dec 2024.
 1. Michal Muszynski, Levente Klein, Ademir Ferreira Da Silva, Anjani Prasad Atluri, Carlos Miguel Pina Vaz Gomes, Daniela Szwarcman, Gurkanwar Singh, Kewen Gu, Maciel Zortea, Naomi Simumba, Paolo Fraccaro, Shraddha Singh, Steve Meliksetian, Campbell Watson, **Daiki Kimura**, and Harini Srinivasan, "[Fine-tuning of Geospatial Foundation Models for Aboveground Biomass Estimation](https://arxiv.org/abs/2406.19888)", _KDD Workshop on Fragile Earth: Generative and Foundational Models for Sustainable Development_, Aug 2024.
 1. **Daiki Kimura**, Naomi Simumba, Marcus Freitag, Johannes Schmude, Linsong Chu, Daniela Szwarcman, Johannes Jakubik, Paolo Fraccaro, Carlos Miguel Pina Vaz Gomes, Dario Augusto Borges Oliveira, Michal Muszynski, and Michiaki Tatsubori, "Geospatial Foundation Model by Diversified Data", _Meeting on Image Recognition and Understanding (MIRU)_, Aug 2024.
 1. Tomoya Sakai, Haoxiang Qiu, Takayuki Katsuki, **Daiki Kimura**, Takayuki Osogami, and Tadanobu Inoue, "Simple Class Relation Helps Generalized Few-Shot Semantic Segmentation", _Meeting on Image Recognition and Understanding (MIRU)_, Aug 2024.
