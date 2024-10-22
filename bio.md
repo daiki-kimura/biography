@@ -6,11 +6,11 @@ Internship: Please see [here](https://www.ibm.com/careers/search?field_keyword_0
 
 **Short Bio**
 
-Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sustainability team at IBM Research in Tokyo, and Event Planning Board Member at Japanese Society for Artificial Intelligence. He is now researching about [Geospatial Foundation Model](https://huggingface.co/ibm-nasa-geospatial) and leading the group in Tokyo. He received his D.Eng. from Institute of Science Tokyo (Tokyo Institute of Technology) in 2015. During the period, he was also a Research Fellow of Japan Society for the Promotion of Science, a Research Intern at Microsoft Research Asia, and so on. He was a Research Scientist at Rakuten Institute of Technology from 2015. He joined IBM Research in 2016 and became Technical Assistant of Tokyo Lab Director in 2020. He received IPSJ Research and Engineering Award in 2023, JSAI Field Innovation Award 2023, Grand Prize in Satellite Image AI Competition in 2023, and so on.
+Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sustainability team at IBM Research in Tokyo, and Event Planning Board Member at Japanese Society for Artificial Intelligence. He is now researching about [Geospatial Foundation Model](https://huggingface.co/ibm-nasa-geospatial) and leading the group in Tokyo. He received his D.Eng. from Tokyo Institute of Technology (Institute of Science Tokyo) in 2015. During the period, he was also a Research Fellow of Japan Society for the Promotion of Science, a Research Intern at Microsoft Research Asia, and so on. He was a Research Scientist at Rakuten Institute of Technology from 2015. He joined IBM Research in 2016 and became Technical Assistant of Tokyo Lab Director in 2020. He received IPSJ Research and Engineering Award in 2023, JSAI Field Innovation Award 2023, Grand Prize in Satellite Image AI Competition in 2023, and so on.
 
 **木村 大毅**
 
-現在、IBM 東京基礎研究所 シニアリサーチサイエンティスト、クライメイト&サステナビリティ担当部長、及び人工知能学会 企画委員。2015 年 東京科学大学（旧東京工業大学）博士課程修了。在学中、日本学術振興会 特別研究員等を兼任、Microsoft Research Asia 等で研究インターンシップに参加。2015 年 楽天技術研究所に入所。2016 年 IBM 東京基礎研究所に入所、2020 年 研究所所長技術補佐員を兼任、現在に至る。特に、地理空間基盤モデル、画像 AI などの研究に従事。2023 年度 IPSJ 情報処理技術研究開発賞、2023 年度 JSAI 現場イノベーション賞、2023 年度 衛星画像 AI コンペ 最優秀賞などを受賞。また、中学校・高等学校教諭専修免許状（数学）を保有。
+現在、IBM 東京基礎研究所 シニアリサーチサイエンティスト、クライメイト&サステナビリティ担当部長、及び人工知能学会 企画委員。2015 年 東京工業大学（現:東京科学大学）博士課程修了。在学中、日本学術振興会 特別研究員等を兼任、Microsoft Research Asia 等で研究インターンシップに参加。2015 年 楽天技術研究所に入所。2016 年 IBM 東京基礎研究所に入所、2020 年 研究所所長技術補佐員を兼任、現在に至る。特に、地理空間基盤モデル、画像 AI などの研究に従事。2023 年度 IPSJ 情報処理技術研究開発賞、2023 年度 JSAI 現場イノベーション賞、2023 年度 衛星画像 AI コンペ 最優秀賞などを受賞。また、中学校・高等学校教諭専修免許状（数学）を保有。
 
 ---
 
@@ -47,7 +47,7 @@ Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sus
 - **Outstanding Young Researcher Award**, The Society of Instrument and Control Engineers, 2013
 - Special Award of Innovative Technologies (to SOINN technology), Ministry of Economy Trade and Industry, Japan, 2013
 - Total Exemption from Scholarship Repayment by Top 10% Outstanding Achievements, Japan Student Services Organization, 2012
-- 2nd of Graduated Students, Interdisciplinary Graduate School of Science and Engineering, Institute of Science Tokyo (Tokyo Institute of Technology), 2012
+- 2nd of Graduated Students, Interdisciplinary Graduate School of Science and Engineering, Tokyo Institute of Technology (Institute of Science Tokyo), 2012
 - Best Demonstration Award, Meeting on Image Recognition and Understanding, 2012
 - **Outstanding Paper Award**, Symposium on Sensing via Image Information, 2011
 - JM English Learning Award, National Institute of Technology Tokyo College, 2007
@@ -100,10 +100,10 @@ Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sus
 - Oct 2020 - Jun 2021, **Technical Assistant for Director of Research Tokyo**, IBM Research, Japan
 - Oct 2015 - Sep 2016, **Research Scientist**, **Rakuten Institute of Technology**, Japan
 - Apr 2014 - Sep 2015, **Research Fellow for Young Scientists**, **Japan Society for the Promotion of Science (JSPS)**, Japan
-- Jun 2010 - Sep 2015, Research Assistant, Institute of Science Tokyo (Tokyo Institute of Technology), Japan
+- Jun 2010 - Sep 2015, Research Assistant, Tokyo Institute of Technology (Institute of Science Tokyo), Japan
 - Sep 2014 - Dec 2014, **Research Intern**, **Microsoft Research Asia**, China
-- Oct 2012 - Mar 2014, Teaching and Research Assistant, Institute of Science Tokyo (Tokyo Institute of Technology), Japan
-- Oct 2012 - Sep 2013, **Member of Students Committee**, Institute of Science Tokyo (Tokyo Institute of Technology), Japan
+- Oct 2012 - Mar 2014, Teaching and Research Assistant, Tokyo Institute of Technology (Institute of Science Tokyo), Japan
+- Oct 2012 - Sep 2013, **Member of Students Committee**, Tokyo Institute of Technology (Institute of Science Tokyo), Japan
 - Sep 2011 - Feb 2012, **Research Intern**, **University of Applied Sciences Northwestern Switzerland** (FHNW) [via IAESTE], Switzerland
 - Nov 2008 - Feb 2014, Part-time Lecturer, Rinkai Seminar, Japan
 - Sep 2007 - Oct 2007, Intern, TMC System, Japan
@@ -267,9 +267,9 @@ Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sus
 
 **Education**
 
-- Doctor of Engineering, 2012 - 2015, Institute of Science Tokyo (Tokyo Institute of Technology), ["Knowledge Transfer on Robots"](http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100695875), ([summary](http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100695874))
-- Master of Engineering, 2011 - 2012 _(shortened)_, Institute of Science Tokyo (Tokyo Institute of Technology), ["Ultra-Fast and Online Incremental Transfer Learning"](http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100695876)
-- Bachelor of Engineering, 2009 - 2011, Institute of Science Tokyo (Tokyo Institute of Technology), ["Base Researches for Autonomous-Mental-Development Robot"](http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100695877)
+- Doctor of Engineering, 2012 - 2015, Tokyo Institute of Technology (Institute of Science Tokyo), ["Knowledge Transfer on Robots"](http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100695875), ([summary](http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100695874))
+- Master of Engineering, 2011 - 2012 _(shortened)_, Tokyo Institute of Technology (Institute of Science Tokyo), ["Ultra-Fast and Online Incremental Transfer Learning"](http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100695876)
+- Bachelor of Engineering, 2009 - 2011, Tokyo Institute of Technology (Institute of Science Tokyo), ["Base Researches for Autonomous-Mental-Development Robot"](http://t2r2.star.titech.ac.jp/cgi-bin/publicationinfo.cgi?lv=en&q_publication_content_number=CTT100695877)
 - Foundation degree, 2004 - 2009, National Institute of Technology, Tokyo College, "Scheduling Method without Waiting Time for Mobiles"
 
 ---
