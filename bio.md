@@ -10,7 +10,7 @@ Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sus
 
 **木村 大毅**
 
-現在、IBM 東京基礎研究所 シニアリサーチサイエンティスト、クライメイト&サステナビリティ担当部長、及び人工知能学会 企画委員。2015 年 東京工業大学（現:東京科学大学）博士課程修了。在学中、日本学術振興会 特別研究員等を兼任、Microsoft Research Asia 等で研究インターンシップに参加。2015 年 楽天技術研究所に入所。2016 年 IBM 東京基礎研究所に入所、2020 年 研究所所長技術補佐員を兼任、現在に至る。特に、地理空間基盤モデル、画像 AI などの研究に従事。2023 年度 IPSJ 情報処理技術研究開発賞、2023 年度 JSAI 現場イノベーション賞、2023 年度 衛星画像 AI コンペ 最優秀賞などを受賞。また、中学校・高等学校教諭専修免許状（数学）を保有。
+現在、IBM 東京基礎研究所 シニアリサーチサイエンティスト、クライメイト&サステナビリティー担当部長、及び人工知能学会 企画委員。2015 年 東京工業大学（現:東京科学大学）博士課程修了。在学中、日本学術振興会 特別研究員等を兼任、Microsoft Research Asia 等で研究インターンシップに参加。2015 年 楽天技術研究所に入所。2016 年 IBM 東京基礎研究所に入所、2020 年 研究所所長技術補佐員を兼任、現在に至る。特に、地理空間基盤モデル、画像 AI などの研究に従事。2023 年度 IPSJ 情報処理技術研究開発賞、2023 年度 JSAI 現場イノベーション賞、2023 年度 衛星画像 AI コンペ 最優秀賞などを受賞。また、中学校・高等学校教諭専修免許状（数学）を保有。
 
 ---
 
@@ -232,7 +232,9 @@ Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sus
 
 **Patents**
 
+1. Guillaume Thomas Buthmann, Tomoya Sakai, Haoxiang Qiu, Takayuki Katsuki, and **Daiki Kimura**, "_(confidential)_", US 19/011547, 2024 [status: Filed].
 1. Devyani Lambhate, Vijay Ekambaram, Ranjini Bangalore Guruprasad, Kamal Chandra Das, Michiaki Tatsubori, **Daiki Kimura**, and Naomi Simumba, "_(confidential)_", US 18/814844, 2024 [status: Filed].
+1. "[A Method to Maximize Information Entropy During Sampling for a Dataset with Regional Small Areas](https://priorart.ip.com/IPCOM/00274156D)", IPCOM000274156D, 2024 [status: Defensive Publication].
 1. Thomas Andre Maxime Carta, **Daiki Kimura**, Don Joven Ravoy Agravante, Takaaki Tateishi, Toshihiro Takahashi, Michiaki Tatsubori, "_(confidential)_", US18/800225, 2024 [status: Filed].
 1. Thomas Andre Maxime Carta, **Daiki Kimura**, Don Joven Ravoy Agravante, Michiaki Tatsubori, "_(confidential)_", US18/473808, 2023 [status: Filed].
 1. Yeldar Toleubay, Don Joven Ravoy Agravante, **Daiki Kimura**, Michiaki Tatsubori, "_(confidential)_", US18214377, 2023 [status: Filed].
