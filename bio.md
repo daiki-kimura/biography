@@ -6,18 +6,19 @@ Internship: Please see [here](https://www.ibm.com/careers/search?field_keyword_0
 
 **Short Bio**
 
-Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sustainability team at IBM Research in Tokyo, and Event Planning Board Member at Japanese Society for Artificial Intelligence. He is now researching about [Geospatial Foundation Model](https://huggingface.co/ibm-nasa-geospatial) and leading the group in Tokyo. He received his D.Eng. from Tokyo Institute of Technology (Institute of Science Tokyo) in 2015. During the period, he was also a Research Fellow of Japan Society for the Promotion of Science, a Research Intern at Microsoft Research Asia, and so on. He was a Research Scientist at Rakuten Institute of Technology from 2015. He joined IBM Research in 2016 and became Technical Assistant of Tokyo Lab Director in 2020. He received IPSJ Research and Engineering Award in 2023, JSAI Field Innovation Award 2023, Grand Prize in Satellite Image AI Competition in 2023, and so on.
+Daiki Kimura is currently Senior Account Technical Leader at IBM in Japan, and Event Planning Board Member at Japanese Society for Artificial Intelligence. He received his D.Eng. from Tokyo Institute of Technology (Institute of Science Tokyo) in 2015. During the period, he was also a Research Fellow of Japan Society for the Promotion of Science, a Research Intern at Microsoft Research Asia, and so on. He was a Research Scientist at Rakuten Institute of Technology from 2015. He joined IBM Research in 2016, and became Technical Assistant of Tokyo Lab Director in 2020. He is now working as Account Technical Leader from 2025. He received IPSJ Research and Engineering Award in 2023, JSAI Field Innovation Award 2023, Grand Prize in Satellite Image AI Competition in 2023, and so on.
 
 **木村 大毅**
 
-現在、IBM 東京基礎研究所 シニアリサーチサイエンティスト、クライメイト&サステナビリティー担当部長、及び人工知能学会 企画委員。2015 年 東京工業大学（現:東京科学大学）博士課程修了。在学中、日本学術振興会 特別研究員等を兼任、Microsoft Research Asia 等で研究インターンシップに参加。2015 年 楽天技術研究所に入所。2016 年 IBM 東京基礎研究所に入所、2020 年 研究所所長技術補佐員を兼任、現在に至る。特に、地理空間基盤モデル、画像 AI などの研究に従事。2023 年度 IPSJ 情報処理技術研究開発賞、2023 年度 JSAI 現場イノベーション賞、2023 年度 衛星画像 AI コンペ 最優秀賞などを受賞。また、中学校・高等学校教諭専修免許状（数学）を保有。
+現在、IBM 東京基礎研究所 シニアリサーチサイエンティスト、クライメイト&サステナビリティー担当部長、及び人工知能学会 企画委員。2015 年 東京工業大学（現:東京科学大学）博士課程修了。在学中、日本学術振興会 特別研究員等を兼任、Microsoft Research Asia 等で研究インターンシップに参加。2015 年 楽天技術研究所に入所。2016 年 IBM 東京基礎研究所に入所、2020 年 研究所所長技術補佐員を兼任、2025 年 Account Technical Leader に就任。特に、地理空間基盤モデル、画像 AI などの研究に従事。2023 年度 IPSJ 情報処理技術研究開発賞、2023 年度 JSAI 現場イノベーション賞、2023 年度 衛星画像 AI コンペ 最優秀賞などを受賞。また、中学校・高等学校教諭専修免許状（数学）を保有。
 
 ---
 
 **Projects in IBM**
 
-- 2024 - Now: Manager of **Climate & Sustainability team** (e.g. Geospatial, Time-series, and Visual Foundation Model) in Japan
-- 2022 - Now: Lead of Tokyo team for **Geospatial Foundation Model** ([Paper](https://arxiv.org/abs/2310.18660), [Press1](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face), [Press2](https://newsroom.ibm.com/2023-02-01-IBM-and-NASA-Collaborate-to-Research-Impact-of-Climate-Change-with-AI), [Press3](https://research.ibm.com/blog/geospatial-models-nasa-ai))
+- 2025 - Now: **Account Technical Leader** for Governments and Hospitals
+- 2024 - 2025: Manager of **Climate & Sustainability team** (e.g. Geospatial, Time-series, and Visual Foundation Model) in Japan
+- 2022 - 2025: Lead of Tokyo team for **Geospatial Foundation Model** ([Paper](https://arxiv.org/abs/2310.18660), [Press1](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face), [Press2](https://newsroom.ibm.com/2023-02-01-IBM-and-NASA-Collaborate-to-Research-Impact-of-Climate-Change-with-AI), [Press3](https://research.ibm.com/blog/geospatial-models-nasa-ai))
 - 2022 - 2023: Lead of **Generative AI model for Satellite Images** ([Competition](https://connpass.com/event/264630/), received **Grand Prize** at the competition, **Interactive Presentation Award** at MIRU 2023, **GM Award** in 2023)
 - 2019 - 2022: Technical Lead of **Neuro-Symbolic Reinforcement Learning** ([LOA](https://github.com/IBM/LOA), [NeSA-Demo](https://github.com/IBM/nesa-demo), [Paper1](https://arxiv.org/abs/2110.10963), [Paper2](https://arxiv.org/abs/2110.10973))
 - 2017 - 2020: Technical Lead of **Visual Analysis by GAN during Robot-Human Interaction for Detecting Dementia** ([Paper](https://openaccess.thecvf.com/content_WACV_2020/html/Kimura_Adversarial_Discriminative_Attention_for_Robust_Anomaly_Detection_WACV_2020_paper.html), received **2 awards: Best Paper Award, Audience Award**)
@@ -89,13 +90,13 @@ Daiki Kimura is currently Senior Research Scientist and Manager of Climate & Sus
 
 **Working experience**
 
-- May 2024 - Now, **Senior Research Scientist**, IBM Research, Japan
-- Feb 2024 - Now, **Manager**, IBM Research, Japan
+- Feb 2025 - Now, **Senior Account Technical Leader**, IBM, Japan
 - Jan 2024 - Now, **Master Inventor**, IBM Research
 - Dec 2022 - Now, **Event Planning Board Member** (YouTube video manager), Japanese Society for Artificial Intelligence ([link](https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard_2023/)), Japan
 - Sep 2022 - Now, **JP Steering Committee of Invention Development Team**, IBM Research, Japan
-- Mar 2023 - Now, **Member of Invention Development Team** on Core DL Methods, IBM Research
-- Nov 2021 - Now, **Member of Invention Development Team** on Neuro-Symbolic AI, IBM Research
+- Nov 2021 - Now, **Member of Invention Development Team** on Neuro-Symbolic AI / Core DL Methods / AI for Climate and Sustainability, IBM Research
+- May 2024 - Jan 2025, **Senior Research Scientist**, IBM Research, Japan
+- Feb 2024 - Jan 2025, **Manager**, IBM Research, Japan
 - Oct 2016 - Apr 2024, **Research Scientist**, IBM Research, Japan
 - Oct 2020 - Jun 2021, **Technical Assistant for Director of Research Tokyo**, IBM Research, Japan
 - Oct 2015 - Sep 2016, **Research Scientist**, **Rakuten Institute of Technology**, Japan
