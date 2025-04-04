@@ -2,23 +2,28 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=UisUpBkAAAAJ) | [Twitter](https://twitter.com/daiki_kimura) | [GitHub](https://github.com/daiki-kimura) | [LinkedIn](https://www.linkedin.com/in/daikikimura) | [LinkedIn(jp)](https://jp.linkedin.com/in/daikikimura/ja)
 
-Internship: Please see [here](https://www.ibm.com/careers/search?field_keyword_08[0]=Research&field_keyword_18[0]=Intern&field_keyword_05[0]=Japan) (choose Accelerated Discovery or AI) or contact me
+**For Student**
+
+- If you are interested in an **internship** at IBM Research in Tokyo, see this [page](https://www.ibm.com/careers/search?field_keyword_08[0]=Research&field_keyword_18[0]=Intern&field_keyword_05[0]=Japan) or contact me
+- If you are interested in a **Master** or **Doctor** student at [ShounoLab](https://sites.google.com/view/shounolab/) in [UEC](https://www.uec.ac.jp/), contact me
+- IBM 東京基礎研究所でのインターンに興味のある方は、[こちら](https://www.ibm.com/careers/search?field_keyword_08[0]=Research&field_keyword_18[0]=Intern&field_keyword_05[0]=Japan)をご確認いただくか、ご連絡ください
+- 電気通信大学 [庄野研究室](https://sites.google.com/view/shounolab/)での、修士課程や博士課程への進学をご検討の方は、ご連絡ください
 
 **Short Bio**
 
-Daiki Kimura is currently Senior Account Technical Leader at IBM in Japan, and Event Planning Board Member at Japanese Society for Artificial Intelligence. He received his D.Eng. from Tokyo Institute of Technology (Institute of Science Tokyo) in 2015. During the period, he was also a Research Fellow of Japan Society for the Promotion of Science, a Research Intern at Microsoft Research Asia, and so on. He was a Research Scientist at Rakuten Institute of Technology from 2015. He joined IBM Research in 2016, and became Technical Assistant of Tokyo Lab Director in 2020. He is now working as Account Technical Leader from 2025. He received IPSJ Research and Engineering Award in 2023, JSAI Field Innovation Award 2023, Grand Prize in Satellite Image AI Competition in 2023, and so on.
+Daiki Kimura is currently a Senior Account Technical Leader at IBM in Japan, a Collaborative Associate Professor at The University of Electro-Communications, and an Event Planning Board Member at Japanese Society for Artificial Intelligence. He received his D.Eng. from Tokyo Institute of Technology (Institute of Science Tokyo) in 2015. During the period, he was also a Research Fellow of Japan Society for the Promotion of Science, a Research Intern at Microsoft Research Asia, and so on. He was a Research Scientist at Rakuten Institute of Technology from 2015. He joined IBM Research in 2016, became Technical Assistant of Tokyo Lab Director in 2020, became Research Manager in 2024. He is now working as Senior Account Technical Leader from 2025. He received NASA Group Achievement Honor Award in 2024, IPSJ Research and Engineering Award in 2023, JSAI Field Innovation Award 2023, and so on.
 
 **木村 大毅**
 
-現在、IBM 東京基礎研究所 シニアリサーチサイエンティスト、クライメイト&サステナビリティー担当部長、及び人工知能学会 企画委員。2015 年 東京工業大学（現:東京科学大学）博士課程修了。在学中、日本学術振興会 特別研究員等を兼任、Microsoft Research Asia 等で研究インターンシップに参加。2015 年 楽天技術研究所に入所。2016 年 IBM 東京基礎研究所に入所、2020 年 研究所所長技術補佐員を兼任、2025 年 Account Technical Leader に就任。特に、地理空間基盤モデル、画像 AI などの研究に従事。2023 年度 IPSJ 情報処理技術研究開発賞、2023 年度 JSAI 現場イノベーション賞、2023 年度 衛星画像 AI コンペ 最優秀賞などを受賞。また、中学校・高等学校教諭専修免許状（数学）を保有。
+現在、日本 IBM 株式会社 公共事業担当（政府機関・病院等） シニア・アカウント・テクニカル・リーダー、電気通信大学 連携准教授、及び人工知能学会 企画委員。2015 年 東京工業大学（現:東京科学大学）博士課程修了。在学中、日本学術振興会 特別研究員等を兼任、Microsoft Research Asia 等で研究インターンシップに参加。2015 年 楽天技術研究所に入所。2016 年 IBM 東京基礎研究所に入所、2020 年 研究所所長技術補佐員、2024 年 研究マネージャーを兼任、2025 年 Senior Account Technical Leader に就任。特に、地理空間基盤モデル、画像 AI などの研究に従事。2024 年 NASA Group Achievement Honor Award、2023 年度 IPSJ 情報処理技術研究開発賞、2023 年度 JSAI 現場イノベーション賞などを受賞。また、中学校・高等学校教諭専修免許状（数学）を保有。
 
 ---
 
 **Projects in IBM**
 
-- 2025 - Now: **Account Technical Leader** for Governments and Hospitals
-- 2024 - 2025: Manager of **Climate & Sustainability team** (e.g. Geospatial, Time-series, and Visual Foundation Model) in Japan
-- 2022 - 2025: Lead of Tokyo team for **Geospatial Foundation Model** ([Paper](https://arxiv.org/abs/2310.18660), [Press1](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face), [Press2](https://newsroom.ibm.com/2023-02-01-IBM-and-NASA-Collaborate-to-Research-Impact-of-Climate-Change-with-AI), [Press3](https://research.ibm.com/blog/geospatial-models-nasa-ai))
+- 2025 - Now: **Account Technical Leader** for Public Sector (Government and Hospitals), IBM Technology
+- 2024 - 2025: Research Manager of **Climate & Sustainability team** (e.g. Geospatial, Time-series, and Visual Foundation Model) in Japan
+- 2022 - 2025: Lead of Tokyo team for **Geospatial Foundation Model** ([Award from NASA](https://x.com/daiki_kimura/status/1867002413250699573), [Award from JSAI](https://www.ai-gakkai.or.jp/about/award/#INNOVATION), [Paper](https://arxiv.org/abs/2310.18660), [Press1](https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face), [Press2](https://newsroom.ibm.com/2023-02-01-IBM-and-NASA-Collaborate-to-Research-Impact-of-Climate-Change-with-AI), [Press3](https://research.ibm.com/blog/geospatial-models-nasa-ai))
 - 2022 - 2023: Lead of **Generative AI model for Satellite Images** ([Competition](https://connpass.com/event/264630/), received **Grand Prize** at the competition, **Interactive Presentation Award** at MIRU 2023, **GM Award** in 2023)
 - 2019 - 2022: Technical Lead of **Neuro-Symbolic Reinforcement Learning** ([LOA](https://github.com/IBM/LOA), [NeSA-Demo](https://github.com/IBM/nesa-demo), [Paper1](https://arxiv.org/abs/2110.10963), [Paper2](https://arxiv.org/abs/2110.10973))
 - 2017 - 2020: Technical Lead of **Visual Analysis by GAN during Robot-Human Interaction for Detecting Dementia** ([Paper](https://openaccess.thecvf.com/content_WACV_2020/html/Kimura_Adversarial_Discriminative_Attention_for_Robust_Anomaly_Detection_WACV_2020_paper.html), received **2 awards: Best Paper Award, Audience Award**)
@@ -31,6 +36,7 @@ Daiki Kimura is currently Senior Account Technical Leader at IBM in Japan, and E
 
 **Awards and Funds**
 
+- **NASA Group Achievement Honor Award** ([link](https://x.com/daiki_kimura/status/1867002413250699573)), National Aeronautics and Space Administration (NASA), 2024
 - **JSAI Field Innovation Award** ([link](https://www.ai-gakkai.or.jp/about/award/#INNOVATION)), Japanese Society for Artificial Intelligence, 2024
 - **IPSJ Research and Engineering Award** ([link](https://www.ipsj.or.jp/award/re-award.html)), Information Processing Society of Japan, 2024
 - **GM Award** / 社長賞 - Trailblazer/Beyond boundaries, IBM Japan, 2023
@@ -90,6 +96,7 @@ Daiki Kimura is currently Senior Account Technical Leader at IBM in Japan, and E
 
 **Working experience**
 
+- Apr 2025 - Now, **Collaborative Associate Professor**, The University of Electro-Communications, Japan
 - Feb 2025 - Now, **Senior Account Technical Leader**, IBM, Japan
 - Jan 2024 - Now, **Master Inventor**, IBM Research
 - Dec 2022 - Now, **Event Planning Board Member** (YouTube video manager), Japanese Society for Artificial Intelligence ([link](https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard_2023/)), Japan
@@ -129,6 +136,7 @@ Daiki Kimura is currently Senior Account Technical Leader at IBM in Japan, and E
 
 **Publications**
 
+1. Guillaume Thomas Buthmann, Tomoya Sakai, Haoxiang Qiu, Takayuki Katsuki, and **Daiki Kimura**, "Text-Guided Few-Shot Semantic Segmentation with Training-Free Multimodal Feature Matching", _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, Apr 2025.
 1. Tomoya Sakai, Haoxiang Qiu, Takayuki Katsuki, **Daiki Kimura**, Takayuki Osogami, and Tadanobu Inoue, "A Surprisingly Simple Approach to Generalized Few-Shot Semantic Segmentation", _Conference on Neural Information Processing Systems (NeurIPS)_, Dec 2024.
 1. **Daiki Kimura**, Naomi Simumba, Marcus Freitag, Johannes Schmude, Daniela Szwarcman, Michiaki Tatsubori, Paolo Fraccaro, and Campbell Watson, "Global Area Sampling for Geospatial Foundation Model", _American Geophysical Union Annual Meeting (AGU)_, Dec 2024.
 1. **Daiki Kimura**, Tatsuya Ishikawa, Naomi Simumba, Michiaki Tatsubori, Takao Moriyama, Harini Srinivasan and Levente Klein, "Predicting NDVI from SAR Images toward Above Ground Biomass Estimation", _American Geophysical Union Annual Meeting (AGU)_, Dec 2024.
