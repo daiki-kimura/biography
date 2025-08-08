@@ -1,21 +1,25 @@
 **Email**: daiki [at] jp.ibm.com
 
-[Google Scholar](https://scholar.google.com/citations?user=UisUpBkAAAAJ) | [Twitter](https://twitter.com/daiki_kimura) | [GitHub](https://github.com/daiki-kimura) | [LinkedIn](https://www.linkedin.com/in/daikikimura) | [LinkedIn(jp)](https://jp.linkedin.com/in/daikikimura/ja)
+[Google Scholar](https://scholar.google.com/citations?user=UisUpBkAAAAJ) | [X(Twitter)](https://twitter.com/daiki_kimura) | [GitHub](https://github.com/daiki-kimura) | [LinkedIn](https://www.linkedin.com/in/daikikimura) | [LinkedIn(jp)](https://jp.linkedin.com/in/daikikimura/ja)
 
 **For Student**
 
 - If you are interested in an **internship** at IBM Research in Tokyo, see this [page](https://www.ibm.com/careers/search?field_keyword_08[0]=Research&field_keyword_18[0]=Intern&field_keyword_05[0]=Japan) or contact me
 - If you are interested in a **Master** or **Doctor** student at [ShounoLab](https://sites.google.com/view/shounolab/) in [UEC](https://www.uec.ac.jp/), contact me
-- IBM 東京基礎研究所でのインターンに興味のある方は、[こちら](https://www.ibm.com/careers/search?field_keyword_08[0]=Research&field_keyword_18[0]=Intern&field_keyword_05[0]=Japan)をご確認いただくか、ご連絡ください
+- IBM 東京基礎研究所でのインターンに興味のある方は、[こちら](http://ibm.biz/trl-interns)をご確認いただくか、ご連絡ください
 - 電気通信大学 [庄野研究室](https://sites.google.com/view/shounolab/)での、修士課程や博士課程への進学をご検討の方は、ご連絡ください
 
 **Short Bio**
 
-Daiki Kimura is currently a Senior Account Technical Leader at IBM in Japan, a Collaborative Associate Professor at The University of Electro-Communications, and an Event Planning Board Member at Japanese Society for Artificial Intelligence. He received his D.Eng. from Tokyo Institute of Technology (Institute of Science Tokyo) in 2015. During the period, he was also a Research Fellow of Japan Society for the Promotion of Science, a Research Intern at Microsoft Research Asia, and so on. He was a Research Scientist at Rakuten Institute of Technology from 2015. He joined IBM Research in 2016, became Technical Assistant of Tokyo Lab Director in 2020, became Research Manager in 2024. He is now working as Senior Account Technical Leader from 2025. He received NASA Group Achievement Honor Award in 2024, IPSJ Research and Engineering Award in 2023, JSAI Field Innovation Award 2023, and so on.
+Daiki Kimura is a Senior Account Technical Leader at IBM Japan, a Collaborative Associate Professor at The University of Electro-Communications, and a Director at The Japanese Society for Artificial Intelligence. He received his D.Eng. from Tokyo Institute of Technology. He joined IBM Research in 2016, then he is working at current position from 2025. He received several awards from NASA, IPSJ, JSAI, and so on.
+
+**Bio**
+
+Dr. Daiki Kimura is currently a Senior Account Technical Leader at IBM Japan, a Collaborative Associate Professor at The University of Electro-Communications, and a Director and an Event Planning Board Member at The Japanese Society for Artificial Intelligence. He received his D.Eng. from Tokyo Institute of Technology (Institute of Science Tokyo) in 2015. During that period, he was also a Research Fellow of the Japan Society for the Promotion of Science, and a Research Intern at Microsoft Research Asia. From 2015, he was a Research Scientist at Rakuten Institute of Technology. He joined IBM Research in 2016, became Technical Assistant of Tokyo Lab Director in 2020, became Research Manager in 2024. He is now working as Senior Account Technical Leader from 2025. He received NASA Group Achievement Honor Award in 2024, IPSJ Research and Engineering Award in 2023, JSAI Field Innovation Award 2023, and so on.
 
 **木村 大毅**
 
-現在、日本 IBM 株式会社 公共事業担当（政府機関・病院等） シニア・アカウント・テクニカル・リーダー、電気通信大学 連携准教授、及び人工知能学会 企画委員。2015 年 東京工業大学（現:東京科学大学）博士課程修了。在学中、日本学術振興会 特別研究員等を兼任、Microsoft Research Asia 等で研究インターンシップに参加。2015 年 楽天技術研究所に入所。2016 年 IBM 東京基礎研究所に入所、2020 年 研究所所長技術補佐員、2024 年 研究マネージャーを兼任、2025 年 Senior Account Technical Leader に就任。特に、地理空間基盤モデル、画像 AI などの研究に従事。2024 年 NASA Group Achievement Honor Award、2023 年度 IPSJ 情報処理技術研究開発賞、2023 年度 JSAI 現場イノベーション賞などを受賞。また、中学校・高等学校教諭専修免許状（数学）を保有。
+現在、日本 IBM 株式会社 公共事業担当（政府機関・病院等） シニア・アカウント・テクニカル・リーダー、電気通信大学 連携准教授、及び人工知能学会 理事 広報担当、企画委員。2015 年 東京工業大学 博士課程修了。在学中、日本学術振興会 特別研究員等を兼任、Microsoft Research Asia 等で研究インターンシップに参加。2015 年 楽天技術研究所に入所。2016 年 IBM 東京基礎研究所に入所、2020 年 研究所所長技術補佐員、2024 年 研究マネージャーを兼任、2025 年より現在の ATL に就任。特に、画像 AI、強化学習などの研究に従事。2024 年 NASA Group Achievement Honor Award、2023 年度 IPSJ 情報処理技術研究開発賞、2023 年度 JSAI 現場イノベーション賞などを受賞。また、中学校・高等学校教諭専修免許状（数学）を保有。
 
 ---
 
@@ -36,6 +40,7 @@ Daiki Kimura is currently a Senior Account Technical Leader at IBM in Japan, a C
 
 **Awards and Funds**
 
+- **Outstanding Technical Achievement Award**, IBM, 2024
 - **NASA Group Achievement Honor Award** ([link](https://x.com/daiki_kimura/status/1867002413250699573)), National Aeronautics and Space Administration (NASA), 2024
 - **JSAI Field Innovation Award** ([link](https://www.ai-gakkai.or.jp/about/award/#INNOVATION)), Japanese Society for Artificial Intelligence, 2024
 - **IPSJ Research and Engineering Award** ([link](https://www.ipsj.or.jp/award/re-award.html)), Information Processing Society of Japan, 2024
@@ -63,9 +68,14 @@ Daiki Kimura is currently a Senior Account Technical Leader at IBM in Japan, a C
 
 **Professional Activities**
 
+- **Organizer**, 2nd International Workshop on Neuro-Symbolic Software Engineering (NSE) ([link](https://conf.researchr.org/home/icse-2026/nse-2026)), ICSE 2026
+- **Program Committee**, **IJCAI 2020 - 2025**
+- **Program Committee**, **AAAI 2021 - 2025**
+- **Organizing committee** (Diversity and Work-Life Balance chair), Meeting on Image Recognition and Understanding (MIRU) 2025
+- **Evaluation committee**, Meeting on Image Recognition and Understanding (MIRU) 2025
+- **Organizing committee** (Advisor of Finance), Symposium on Sensing via Image Information (SSII) 2025
+- **Organizer**, 1st International Workshop on Neuro-Symbolic Software Engineering (NSE) ([link](https://conf.researchr.org/home/icse-2025/nse-2025)), ICSE 2025
 - **Organizing committee** (**Lead** of Finance), Symposium on Sensing via Image Information (SSII) 2024
-- **Program Committee**, **IJCAI 2020 - 2024**
-- **Program Committee**, **AAAI 2021 - 2024**
 - **Area Chair**, **EMNLP 2023**
 - **Organizing committee** (Sub-Lead of Finance), Symposium on Sensing via Image Information (SSII) 2023
 - **Organizer**, Neuro-Symbolic Agent (NSA) ([link](https://nsa-wksp.github.io/)), IJCAI 2023
@@ -96,11 +106,13 @@ Daiki Kimura is currently a Senior Account Technical Leader at IBM in Japan, a C
 
 **Working experience**
 
+- Jun 2025 - Now, **Director**, The Japanese Society for Artificial Intelligence ([link](https://www.ai-gakkai.or.jp/about/about-us/)), Japan
+- May 2025 - Now, **Quantum Ambassador**, IBM, Japan
 - Apr 2025 - Now, **Collaborative Associate Professor**, The University of Electro-Communications, Japan
 - Feb 2025 - Now, **Senior Account Technical Leader**, IBM, Japan
 - Jan 2024 - Now, **Master Inventor**, IBM Research
-- Dec 2022 - Now, **Event Planning Board Member** (YouTube video manager), Japanese Society for Artificial Intelligence ([link](https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard_2023/)), Japan
-- Sep 2022 - Now, **JP Steering Committee of Invention Development Team**, IBM Research, Japan
+- Dec 2022 - Now, **Event Planning Board Member** (YouTube video manager), The Japanese Society for Artificial Intelligence ([link](https://www.ai-gakkai.or.jp/event/ai-seminar/planningboard_2023/)), Japan
+- Sep 2022 - Now, **JP Steering Committee of Invention Development Team**, IBM, Japan
 - Nov 2021 - Now, **Member of Invention Development Team** on Neuro-Symbolic AI / Core DL Methods / AI for Climate and Sustainability, IBM Research
 - May 2024 - Jan 2025, **Senior Research Scientist**, IBM Research, Japan
 - Feb 2024 - Jan 2025, **Manager**, IBM Research, Japan
@@ -136,6 +148,10 @@ Daiki Kimura is currently a Senior Account Technical Leader at IBM in Japan, a C
 
 **Publications**
 
+1. Sina Klampt, Tatsuya Ishikawa, and **Daiki Kimura**, "Transductive Transfer-Learning for Land Use Land Cover Classification using Geospatial Foundation Models", _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, Aug 2025.
+1. Priyanka Shukla, Dericks Shukla, Sina Klampt, and **Daiki Kimura**, "Finetuning Geospatial Foundation Model for Wildfire Scars in Himalayan Region", _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, Aug 2025.
+1. Haoxiang Qiu, Tomoya Sakai, Takayuki Katsuki, and **Daiki Kimura**, "Learnable Channel Converter for Multi-Spectral Image to RGB Visualization using a Vision-Text Model", _IEEE International Geoscience and Remote Sensing Symposium (IGARSS)_, Aug 2025.
+1. Yumi Fukuda, **Daiki Kimura**, and Hayaru Shouno, "Effectiveness of Self-Supervised Pre-Training for Small Number of Labeled Images and Performance Analysis against the Number of Labeled Images", _Meeting on Image Recognition and Understanding_, Jul 2025.
 1. Guillaume Thomas Buthmann, Tomoya Sakai, Haoxiang Qiu, Takayuki Katsuki, and **Daiki Kimura**, "Text-Guided Few-Shot Semantic Segmentation with Training-Free Multimodal Feature Matching", _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, Apr 2025.
 1. Tomoya Sakai, Haoxiang Qiu, Takayuki Katsuki, **Daiki Kimura**, Takayuki Osogami, and Tadanobu Inoue, "A Surprisingly Simple Approach to Generalized Few-Shot Semantic Segmentation", _Conference on Neural Information Processing Systems (NeurIPS)_, Dec 2024.
 1. **Daiki Kimura**, Naomi Simumba, Marcus Freitag, Johannes Schmude, Daniela Szwarcman, Michiaki Tatsubori, Paolo Fraccaro, and Campbell Watson, "Global Area Sampling for Geospatial Foundation Model", _American Geophysical Union Annual Meeting (AGU)_, Dec 2024.
